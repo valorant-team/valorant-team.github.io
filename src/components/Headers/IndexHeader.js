@@ -38,7 +38,7 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Paper Kit React</h1>
+              <h1 className="presentation-title">VALORANT TEAM</h1>
               <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
@@ -47,7 +47,11 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
+              <a href="http://ctp.di.fct.unl.pt/~tir/IPM/" target="_blank"><b>Human-Computer Interaction</b></a>
+              <br />
+              Project (2020/2021) - Group 12
+              <br />
+              @ <a href="https://www.fct.unl.pt/en" target="_blank"><b>FCT NOVA</b></a>
             </h2>
           </Container>
         </div>
@@ -59,6 +63,17 @@ function IndexHeader() {
         />
         <h6 className="category category-absolute">
           Designed and coded by{" "}
+          <a
+            href="https://www.creative-tim.com?ref=pkr-index-page"
+            target="_blank"
+          >
+            <img
+              alt="..."
+              className="creative-tim-logo"
+              src={require("assets/img/creative-tim-white-slim2.png")}
+            />
+          </a>&nbsp;&nbsp;&nbsp;|&nbsp;
+          Adapted by{" "}
           <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
             target="_blank"

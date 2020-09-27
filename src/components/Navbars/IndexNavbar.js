@@ -71,7 +71,7 @@ function IndexNavbar() {
             target="_blank"
             title="Coded by Creative Tim"
           >
-            Paper Kit React
+            Valorant Team
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -94,9 +94,9 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
+                href="https://twitter.com/FCTNOVA"
                 target="_blank"
-                title="Follow us on Twitter"
+                title="Follow FCT NOVA on Twitter"
               >
                 <i className="fa fa-twitter" />
                 <p className="d-lg-none">Twitter</p>
@@ -105,9 +105,9 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="https://www.facebook.com/fct.nova"
                 target="_blank"
-                title="Like us on Facebook"
+                title="Like FCT NOVA on Facebook"
               >
                 <i className="fa fa-facebook-square" />
                 <p className="d-lg-none">Facebook</p>
@@ -116,9 +116,9 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="https://www.instagram.com/fctnova/"
                 target="_blank"
-                title="Follow us on Instagram"
+                title="Follow FCT NOVA on Instagram"
               >
                 <i className="fa fa-instagram" />
                 <p className="d-lg-none">Instagram</p>
@@ -127,7 +127,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial/paper-kit-react?ref=creativetim"
+                href="https://github.com/valorant-team/"
                 target="_blank"
                 title="Star on GitHub"
               >
@@ -135,24 +135,22 @@ function IndexNavbar() {
                 <p className="d-lg-none">GitHub</p>
               </NavLink>
             </NavItem>
+            <hr />
             <NavItem>
               <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
+                href="#"
                 target="_blank"
               >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
+                <i className="nc-icon nc-alert-circle-i" />&nbsp;&nbsp;About Us
               </NavLink>
             </NavItem>
             <NavItem>
-              <Button
-                className="btn-round"
-                color="danger"
-                href="#pablo"
+              <NavLink
+                href="#"
                 target="_blank"
-                disabled
               >
-                Upgrade to Pro
-              </Button>
+                <i className="nc-icon nc-badge" />&nbsp;&nbsp;The Team
+              </NavLink>
             </NavItem>
           </Nav>
         </Collapse>
