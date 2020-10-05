@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dbf18cbc.chunk.css",
-    "main.js": "/static/js/main.2cc26249.chunk.js",
-    "main.js.map": "/static/js/main.2cc26249.chunk.js.map",
+    "main.js": "/static/js/main.c8699e3c.chunk.js",
+    "main.js.map": "/static/js/main.c8699e3c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e9acc9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e9acc9c.js.map",
     "static/js/2.374f6d2a.chunk.js": "/static/js/2.374f6d2a.chunk.js",
     "static/js/2.374f6d2a.chunk.js.map": "/static/js/2.374f6d2a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e70bc31ba215f2b666a1627b607716bd.js": "/precache-manifest.e70bc31ba215f2b666a1627b607716bd.js",
+    "precache-manifest.a1ce8b84384baf755a6998e188a4a2e1.js": "/precache-manifest.a1ce8b84384baf755a6998e188a4a2e1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbf18cbc.chunk.css.map": "/static/css/main.dbf18cbc.chunk.css.map",
     "static/js/2.374f6d2a.chunk.js.LICENSE.txt": "/static/js/2.374f6d2a.chunk.js.LICENSE.txt",
-    "static/js/main.2cc26249.chunk.js.LICENSE.txt": "/static/js/main.2cc26249.chunk.js.LICENSE.txt",
+    "static/js/main.c8699e3c.chunk.js.LICENSE.txt": "/static/js/main.c8699e3c.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/antonio-morais.png": "/static/media/antonio-morais.1499269d.png",
     "static/media/artificial-intelligence-1.jpg": "/static/media/artificial-intelligence-1.a1361441.jpg",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.8e9acc9c.js",
     "static/js/2.374f6d2a.chunk.js",
     "static/css/main.dbf18cbc.chunk.css",
-    "static/js/main.2cc26249.chunk.js"
+    "static/js/main.c8699e3c.chunk.js"
   ]
 }
