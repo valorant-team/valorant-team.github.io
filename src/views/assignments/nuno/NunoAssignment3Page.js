@@ -35,7 +35,7 @@ import {
 } from "reactstrap";
 
 // core components
-import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
+import PagesNavbar from "components/Navbars/PagesNavbar.js";
 import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
 import Footer from "components/Footers/Footer.js";
 
@@ -57,7 +57,7 @@ function ProfilePage() {
   });
   return (
     <>
-      <ExamplesNavbar />
+      <PagesNavbar />
       <ProfilePageHeader />
       <div className="section profile-content">
         <Container>

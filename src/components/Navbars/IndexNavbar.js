@@ -67,9 +67,8 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+            href="/"
+            title="Valorant Team"
           >
             Valorant Team
           </NavbarBrand>

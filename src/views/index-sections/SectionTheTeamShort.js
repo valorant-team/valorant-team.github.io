@@ -65,7 +65,7 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center">
                 <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
-                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/antonio-profile-page">Profile Page</a>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/#/antonio-profile-page">Profile Page</a>
                 </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
@@ -85,7 +85,7 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center">
                 <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
-                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/nelson-profile-page">Profile Page</a>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/#/nelson-profile-page">Profile Page</a>
                 </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
@@ -108,7 +108,7 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center">
                 <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
-                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/nuno-profile-page">Profile Page</a>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/#/nuno-profile-page">Profile Page</a>
                 </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
@@ -131,7 +131,7 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center">
                 <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
-                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/ruben-profile-page">Profile Page</a>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/#/ruben-profile-page">Profile Page</a>
                 </p>
               </Col>
           </Row>

@@ -18,7 +18,7 @@
 */
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, Route, Redirect, Switch } from "react-router-dom";
+import { HashRouter, Route, Redirect, Switch } from "react-router-dom";
 
 // styles
 import "assets/css/bootstrap.min.css";
@@ -59,112 +59,112 @@ import RegisterPage from "views/examples/RegisterPage.js";
 // others
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
-      <Route path="/index" render={(props) => <Index {...props} />} />
-      <Route
+      <Route exact path="/" render={(props) => <Index {...props} />} />
+      <Route exact
         path="/nucleo-icons"
         render={(props) => <NucleoIcons {...props} />}
       />
-      <Route
+      <Route exact
         path="/landing-page"
         render={(props) => <LandingPage {...props} />}
       />
-      <Route
+      <Route exact
         path="/antonio-profile-page"
         render={(props) => <AntonioProfilePage {...props} />}
       />
-      <Route
+      <Route exact
         path="/nelson-profile-page"
         render={(props) => <NelsonProfilePage {...props} />}
       />
-      <Route
+      <Route exact
         path="/nuno-profile-page"
         render={(props) => <NunoProfilePage {...props} />}
       />
-      <Route
+      <Route exact
         path="/ruben-profile-page"
         render={(props) => <RubenProfilePage {...props} />}
       />
 
-      <Route
+      <Route exact
         path="/assignments/antonio-assignment-1"
         render={(props) => <AntonioAssignment1Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/antonio-assignment-2"
         render={(props) => <AntonioAssignment2Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/antonio-assignment-3"
         render={(props) => <AntonioAssignment3Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/antonio-assignment-4"
         render={(props) => <AntonioAssignment4Page {...props} />}
       />
 
-      <Route
+      <Route exact
         path="/assignments/nelson-assignment-1"
         render={(props) => <NelsonAssignment1Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nelson-assignment-2"
         render={(props) => <NelsonAssignment2Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nelson-assignment-3"
         render={(props) => <NelsonAssignment3Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nelson-assignment-4"
         render={(props) => <NelsonAssignment4Page {...props} />}
       />
 
-      <Route
+      <Route exact
         path="/assignments/nuno-assignment-1"
         render={(props) => <NunoAssignment1Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nuno-assignment-2"
         render={(props) => <NunoAssignment2Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nuno-assignment-3"
         render={(props) => <NunoAssignment3Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/nuno-assignment-4"
         render={(props) => <NunoAssignment4Page {...props} />}
       />
 
-      <Route
+      <Route exact
         path="/assignments/ruben-assignment-1"
         render={(props) => <RubenAssignment1Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/ruben-assignment-2"
         render={(props) => <RubenAssignment2Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/ruben-assignment-3"
         render={(props) => <RubenAssignment3Page {...props} />}
       />
-      <Route
+      <Route exact
         path="/assignments/ruben-assignment-4"
         render={(props) => <RubenAssignment4Page {...props} />}
       />
 
-      <Route
+      <Route exact
         path="/profile-page"
         render={(props) => <ProfilePage {...props} />}
       />
-      <Route
+      <Route exact
         path="/register-page"
         render={(props) => <RegisterPage {...props} />}
       />
-      <Redirect to="/index" />
+      <Redirect to="/" />
     </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );
