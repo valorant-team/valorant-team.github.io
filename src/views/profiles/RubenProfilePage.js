@@ -39,7 +39,7 @@ import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
 import Footer from "components/Footers/Footer.js";
 
-function ProfilePage() {
+function RubenProfilePage() {
   const [activeTab, setActiveTab] = React.useState("1");
 
   const toggle = (tab) => {
@@ -1313,4 +1313,4 @@ function ProfilePage() {
   );
 }
 
-export default ProfilePage;
+export default RubenProfilePage;
