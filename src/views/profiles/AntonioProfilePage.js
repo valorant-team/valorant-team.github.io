@@ -35,7 +35,7 @@ import {
 } from "reactstrap";
 
 // core components
-import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
+import PagesNavbar from "components/Navbars/PagesNavbar.js";
 import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
 import Footer from "components/Footers/Footer.js";
 
@@ -57,7 +57,7 @@ function AntonioProfilePage() {
   });
   return (
     <>
-      <ExamplesNavbar />
+      <PagesNavbar />
       <ProfilePageHeader />
       <div className="section profile-content">
         <Container>
@@ -1244,7 +1244,7 @@ function AntonioProfilePage() {
             <TabPane tabId="6" id="assignments">
               <Row>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <a href="./assignments/antonio-assignment-1">
+                    <a href="./#/assignments/antonio-assignment-1">
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
@@ -1260,7 +1260,7 @@ function AntonioProfilePage() {
                      </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                     <a href="./assignments/antonio-assignment-2">  
+                     <a href="./#/assignments/antonio-assignment-2">  
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
@@ -1276,7 +1276,7 @@ function AntonioProfilePage() {
                     </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <a href="./assignments/antonio-assignment-3">  
+                    <a href="./#/assignments/antonio-assignment-3">  
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
@@ -1292,7 +1292,7 @@ function AntonioProfilePage() {
                     </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <a href="./assignments/antonio-assignment-4">  
+                    <a href="./#/assignments/antonio-assignment-4">  
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img

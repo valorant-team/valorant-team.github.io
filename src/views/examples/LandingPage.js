@@ -36,7 +36,7 @@ import {
 } from "reactstrap";
 
 // core components
-import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
+import PagesNavbar from "components/Navbars/PagesNavbar.js";
 import LandingPageHeader from "components/Headers/LandingPageHeader.js";
 import Footer from "components/Footers/Footer.js";
 
@@ -50,7 +50,7 @@ function LandingPage() {
   });
   return (
     <>
-      <ExamplesNavbar />
+      <PagesNavbar />
       <LandingPageHeader />
       <div className="main">
         <div className="section text-center">

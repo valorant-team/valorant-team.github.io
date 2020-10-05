@@ -32,7 +32,7 @@ import {
   Container,
 } from "reactstrap";
 
-function ExamplesNavbar() {
+function PagesNavbar() {
   const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
   const [navbarCollapse, setNavbarCollapse] = React.useState(false);
 
@@ -72,9 +72,8 @@ function ExamplesNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            to="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+            to="/"
+            title="Valorant Team"
             tag={Link}
           >
             Valorant Team
@@ -98,8 +97,69 @@ function ExamplesNavbar() {
         >
           <Nav navbar>
             <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="https://twitter.com/FCTNOVA"
+                target="_blank"
+                title="Follow FCT NOVA on Twitter"
+              >
+                <i className="fa fa-twitter" />
+                <p className="d-lg-none">Twitter</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="https://www.facebook.com/fct.nova"
+                target="_blank"
+                title="Like FCT NOVA on Facebook"
+              >
+                <i className="fa fa-facebook-square" />
+                <p className="d-lg-none">Facebook</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="https://www.instagram.com/fctnova/"
+                target="_blank"
+                title="Follow FCT NOVA on Instagram"
+              >
+                <i className="fa fa-instagram" />
+                <p className="d-lg-none">Instagram</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="https://github.com/valorant-team/"
+                target="_blank"
+                title="Star on GitHub"
+              >
+                <i className="fa fa-github" />
+                <p className="d-lg-none">GitHub</p>
+              </NavLink>
+            </NavItem>
+            <hr />
+            <NavItem>
+              <NavLink
+                href="#"
+                target="_blank"
+              >
+                <i className="nc-icon nc-alert-circle-i" />&nbsp;&nbsp;About Us
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                href="#"
+                target="_blank"
+              >
+                <i className="nc-icon nc-badge" />&nbsp;&nbsp;The Team
+              </NavLink>
+            </NavItem>
+            <NavItem>
               <NavLink to="/index" tag={Link}>
-                <i className="nc-icon nc-layout-11" /> Components
+                <i className="nc-icon nc-paper" /> Assignments
               </NavLink>
             </NavItem>
             <NavItem>
@@ -110,50 +170,6 @@ function ExamplesNavbar() {
                 <i className="nc-icon nc-book-bookmark" /> Documentation
               </NavLink>
             </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
-                target="_blank"
-                title="Follow us on Twitter"
-              >
-                <i className="fa fa-twitter" />
-                <p className="d-lg-none">Twitter</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
-                target="_blank"
-                title="Like us on Facebook"
-              >
-                <i className="fa fa-facebook-square" />
-                <p className="d-lg-none">Facebook</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
-                target="_blank"
-                title="Follow us on Instagram"
-              >
-                <i className="fa fa-instagram" />
-                <p className="d-lg-none">Instagram</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial?ref=creativetim"
-                target="_blank"
-                title="Star on GitHub"
-              >
-                <i className="fa fa-github" />
-                <p className="d-lg-none">GitHub</p>
-              </NavLink>
-            </NavItem>
           </Nav>
         </Collapse>
       </Container>
@@ -161,4 +177,4 @@ function ExamplesNavbar() {
   );
 }
 
-export default ExamplesNavbar;
+export default PagesNavbar;
