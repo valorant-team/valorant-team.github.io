@@ -1,2 +1,3 @@
-# valorant-team.github.io
-Personal Web Page for the Valorant Team.
+# Personal Web Page for the Valorant Team
+
+This is the Personal Web Page for the Valorant Team.

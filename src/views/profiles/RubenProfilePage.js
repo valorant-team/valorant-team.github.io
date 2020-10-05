@@ -35,11 +35,11 @@ import {
 } from "reactstrap";
 
 // core components
-import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
+import PagesNavbar from "components/Navbars/PagesNavbar.js";
 import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
 import Footer from "components/Footers/Footer.js";
 
-function ProfilePage() {
+function RubenProfilePage() {
   const [activeTab, setActiveTab] = React.useState("1");
 
   const toggle = (tab) => {
@@ -57,7 +57,7 @@ function ProfilePage() {
   });
   return (
     <>
-      <ExamplesNavbar />
+      <PagesNavbar />
       <ProfilePageHeader />
       <div className="section profile-content">
         <Container>
@@ -1244,7 +1244,7 @@ function ProfilePage() {
             <TabPane tabId="6" id="assignments">
               <Row>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <a href="./assignments/ruben-assignment-1">
+                    <a href="./#/assignments/ruben-assignment-1">
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
@@ -1260,7 +1260,7 @@ function ProfilePage() {
                      </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                     <a href="./assignments/ruben-assignment-2">  
+                     <a href="./#/assignments/ruben-assignment-2">  
                       <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
@@ -1276,7 +1276,8 @@ function ProfilePage() {
                     </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <div class="assignment" lg="3" md="4" xs="4">
+                    <a href="./#/assignments/ruben-assignment-2">  
+                      <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
                           alt="Assignment #3" class="assignment-img"
@@ -1288,9 +1289,11 @@ function ProfilePage() {
                            <div class="text"><b>Assignment #3</b></div>
                          </div>   
                      </div>   
+                    </a>
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                    <div class="assignment" lg="3" md="4" xs="4">
+                    <a href="./#/assignments/ruben-assignment-4">  
+                      <div class="assignment" lg="3" md="4" xs="4">
                         <div class="assignment-img" lg="3" md="4" xs="4">  
                           <img
                           alt="Assignment #4" class="assignment-img"
@@ -1302,6 +1305,7 @@ function ProfilePage() {
                            <div class="text"><b>Assignment #4</b></div>
                          </div>   
                      </div>   
+                    </a>
                   </Col>
               </Row>
             </TabPane>
@@ -1313,4 +1317,4 @@ function ProfilePage() {
   );
 }
 
-export default ProfilePage;
+export default RubenProfilePage;
