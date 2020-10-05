@@ -62,6 +62,11 @@ function SectionTheTeamShort() {
                 <i className="nc-icon nc-email-85" /> <b>E-mail [at] <br/>campus.fct.unl.pt:</b>
                 <br /><a href="mailto:ad.morais@campus.fct.unl.pt">ad.morais</a>
                 </p>
+                <hr />
+                <p className="text-center">
+                <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/antonio-profile-page">Profile Page</a>
+                </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
                 <h4 className="images-title"><center><b>Nélson Santos</b></center></h4>
@@ -76,6 +81,11 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center"><i className="nc-icon nc-email-85" /> <b>E-mail [at] <br/>campus.fct.unl.pt:</b>
                 <br /><a href="mailto:nach.santos@campus.fct.unl.pt">nach.santos</a>
+                </p>
+                <hr />
+                <p className="text-center">
+                <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/nelson-profile-page">Profile Page</a>
                 </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
@@ -95,6 +105,11 @@ function SectionTheTeamShort() {
                 <br />
                 <a href="mailto:nm.sequeira@campus.fct.unl.pt">nm.sequeira</a>
                 </p>
+                <hr />
+                <p className="text-center">
+                <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/nuno-profile-page">Profile Page</a>
+                </p>
               </Col> 
               <Col className="mr-auto ml-auto" md="3" sm="3">
                 <h4 className="images-title"><center><b>Rúben Barreiro</b></center></h4>
@@ -112,6 +127,11 @@ function SectionTheTeamShort() {
                 <p className="text-center">
                 <i className="nc-icon nc-email-85" /> <b>E-mail [at] <br/>campus.fct.unl.pt:</b>
                 <br /><a href="mailto:r.barreiro@campus.fct.unl.pt">r.barreiro</a>
+                </p>
+                <hr />
+                <p className="text-center">
+                <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
+                <br /><b>&bull;</b> <i className="nc-icon nc-circle-10" /> <a href="/ruben-profile-page">Profile Page</a>
                 </p>
               </Col>
           </Row>
