@@ -29,6 +29,32 @@ import Index from "views/Index.js";
 import NucleoIcons from "views/NucleoIcons.js";
 import LandingPage from "views/examples/LandingPage.js";
 import ProfilePage from "views/examples/ProfilePage.js";
+
+import AntonioProfilePage from "views/profiles/AntonioProfilePage.js";
+import NelsonProfilePage from "views/profiles/NelsonProfilePage.js";
+import NunoProfilePage from "views/profiles/NunoProfilePage.js";
+import RubenProfilePage from "views/profiles/RubenProfilePage.js";
+
+import AntonioAssignment1Page from "views/assignments/antonio/AntonioAssignment1Page.js";
+import AntonioAssignment2Page from "views/assignments/antonio/AntonioAssignment2Page.js";
+import AntonioAssignment3Page from "views/assignments/antonio/AntonioAssignment3Page.js";
+import AntonioAssignment4Page from "views/assignments/antonio/AntonioAssignment4Page.js";
+
+import NelsonAssignment1Page from "views/assignments/nelson/NelsonAssignment1Page.js";
+import NelsonAssignment2Page from "views/assignments/nelson/NelsonAssignment2Page.js";
+import NelsonAssignment3Page from "views/assignments/nelson/NelsonAssignment3Page.js";
+import NelsonAssignment4Page from "views/assignments/nelson/NelsonAssignment4Page.js";
+
+import NunoAssignment1Page from "views/assignments/nuno/NunoAssignment1Page.js";
+import NunoAssignment2Page from "views/assignments/nuno/NunoAssignment2Page.js";
+import NunoAssignment3Page from "views/assignments/nuno/NunoAssignment3Page.js";
+import NunoAssignment4Page from "views/assignments/nuno/NunoAssignment4Page.js";
+
+import RubenAssignment1Page from "views/assignments/ruben/RubenAssignment1Page.js";
+import RubenAssignment2Page from "views/assignments/ruben/RubenAssignment2Page.js";
+import RubenAssignment3Page from "views/assignments/ruben/RubenAssignment3Page.js";
+import RubenAssignment4Page from "views/assignments/ruben/RubenAssignment4Page.js";
+
 import RegisterPage from "views/examples/RegisterPage.js";
 // others
 
@@ -44,6 +70,91 @@ ReactDOM.render(
         path="/landing-page"
         render={(props) => <LandingPage {...props} />}
       />
+      <Route
+        path="/antonio-profile-page"
+        render={(props) => <AntonioProfilePage {...props} />}
+      />
+      <Route
+        path="/nelson-profile-page"
+        render={(props) => <NelsonProfilePage {...props} />}
+      />
+      <Route
+        path="/nuno-profile-page"
+        render={(props) => <NunoProfilePage {...props} />}
+      />
+      <Route
+        path="/ruben-profile-page"
+        render={(props) => <RubenProfilePage {...props} />}
+      />
+
+      <Route
+        path="/assignments/antonio-assignment-1"
+        render={(props) => <AntonioAssignment1Page {...props} />}
+      />
+      <Route
+        path="/assignments/antonio-assignment-2"
+        render={(props) => <AntonioAssignment2Page {...props} />}
+      />
+      <Route
+        path="/assignments/antonio-assignment-3"
+        render={(props) => <AntonioAssignment3Page {...props} />}
+      />
+      <Route
+        path="/assignments/antonio-assignment-4"
+        render={(props) => <AntonioAssignment4Page {...props} />}
+      />
+
+      <Route
+        path="/assignments/nelson-assignment-1"
+        render={(props) => <NelsonAssignment1Page {...props} />}
+      />
+      <Route
+        path="/assignments/nelson-assignment-2"
+        render={(props) => <NelsonAssignment2Page {...props} />}
+      />
+      <Route
+        path="/assignments/nelson-assignment-3"
+        render={(props) => <NelsonAssignment3Page {...props} />}
+      />
+      <Route
+        path="/assignments/nelson-assignment-4"
+        render={(props) => <NelsonAssignment4Page {...props} />}
+      />
+
+      <Route
+        path="/assignments/nuno-assignment-1"
+        render={(props) => <NunoAssignment1Page {...props} />}
+      />
+      <Route
+        path="/assignments/nuno-assignment-2"
+        render={(props) => <NunoAssignment2Page {...props} />}
+      />
+      <Route
+        path="/assignments/nuno-assignment-3"
+        render={(props) => <NunoAssignment3Page {...props} />}
+      />
+      <Route
+        path="/assignments/nuno-assignment-4"
+        render={(props) => <NunoAssignment4Page {...props} />}
+      />
+
+      <Route
+        path="/assignments/ruben-assignment-1"
+        render={(props) => <RubenAssignment1Page {...props} />}
+      />
+      <Route
+        path="/assignments/ruben-assignment-2"
+        render={(props) => <RubenAssignment2Page {...props} />}
+      />
+      <Route
+        path="/assignments/ruben-assignment-3"
+        render={(props) => <RubenAssignment3Page {...props} />}
+      />
+      <Route
+        path="/assignments/ruben-assignment-4"
+        render={(props) => <RubenAssignment4Page {...props} />}
+      />
+
       <Route
         path="/profile-page"
         render={(props) => <ProfilePage {...props} />}
