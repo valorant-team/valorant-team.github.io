@@ -77,7 +77,7 @@ function ExamplesNavbar() {
             title="Coded by Creative Tim"
             tag={Link}
           >
-            Paper Kit 2
+            Valorant Team
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
