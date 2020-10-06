@@ -71,7 +71,7 @@ function ProfilePage() {
             </div>
             <div className="name">
               <h4 className="title">
-                <b>Rúben André Barreiro</b>
+                <b>António Morais</b>
                 <br />
               </h4>
               <h6 className="description">Computer Scientist/Engineer and Master Student</h6>
@@ -86,13 +86,43 @@ function ProfilePage() {
                 
               <h5><b>Assignment #1</b></h5>
                 
-              <h6><b>Some Subtitle</b></h6>
+              <h6><b>Good and bad user interface design</b></h6>
               
               <br />
-                  
+              
+              <h4 className="assignment-subtitle"><b>Goal</b></h4>
+              
               <p>
-                N/A
+                Find out one example of good user interface design and one example of bad user interface design.
               </p>
+              
+              <h4 className="assignment-title"><b>Bad user interface</b></h4>
+              
+              <p>
+                An example for a bad user interface is the Arngren, it was a website used to sell electronic gadgets and appliances. Although the website completes its task of exhibiting all its marketable items, it is very difficult for the user to find the desired item.
+              </p>
+                  
+              <img
+                alt="bad_design_example"
+                className="img-no-padding img-responsive"
+                src={require("assets/img/antonio/assignment1/bad.png")}
+              />    
+
+			 <p>
+               A solution for this problem would be making a website where the first thing that user can see when entering is a search bar to insert the desired item.
+             </p>
+             
+             <h4 className="assignment-title"><b>Good user interface</b></h4>
+              
+             <p>
+                I considered Ebay a good user interface because one of the first things that shows up after entering the website is a search bar where the user can insert the desired item and the category for that item, thus making it easier for the user to complete his task.
+              </p> 
+              
+             <img
+                alt="good_design_example"
+                className="img-no-padding img-responsive"
+                src={require("assets/img/antonio/assignment1/good.png")}
+              /> 
 
             </Col>
           </Row>
