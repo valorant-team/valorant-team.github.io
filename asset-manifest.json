@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dbf18cbc.chunk.css",
-    "main.js": "/static/js/main.bf1b0993.chunk.js",
-    "main.js.map": "/static/js/main.bf1b0993.chunk.js.map",
+    "main.js": "/static/js/main.c30519ed.chunk.js",
+    "main.js.map": "/static/js/main.c30519ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e9acc9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e9acc9c.js.map",
-    "static/js/2.374f6d2a.chunk.js": "/static/js/2.374f6d2a.chunk.js",
-    "static/js/2.374f6d2a.chunk.js.map": "/static/js/2.374f6d2a.chunk.js.map",
+    "static/js/2.311f6446.chunk.js": "/static/js/2.311f6446.chunk.js",
+    "static/js/2.311f6446.chunk.js.map": "/static/js/2.311f6446.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fee11aa0352b24ce5393c4cd2b4471d8.js": "/precache-manifest.fee11aa0352b24ce5393c4cd2b4471d8.js",
+    "precache-manifest.7072ca008cc042559a49ff5725ea338e.js": "/precache-manifest.7072ca008cc042559a49ff5725ea338e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dbf18cbc.chunk.css.map": "/static/css/main.dbf18cbc.chunk.css.map",
-    "static/js/2.374f6d2a.chunk.js.LICENSE.txt": "/static/js/2.374f6d2a.chunk.js.LICENSE.txt",
-    "static/js/main.bf1b0993.chunk.js.LICENSE.txt": "/static/js/main.bf1b0993.chunk.js.LICENSE.txt",
+    "static/js/2.311f6446.chunk.js.LICENSE.txt": "/static/js/2.311f6446.chunk.js.LICENSE.txt",
+    "static/js/main.c30519ed.chunk.js.LICENSE.txt": "/static/js/main.c30519ed.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/antonio-morais.png": "/static/media/antonio-morais.1499269d.png",
     "static/media/artificial-intelligence-1.jpg": "/static/media/artificial-intelligence-1.a1361441.jpg",
@@ -31,15 +31,16 @@
     "static/media/nelson-santos.png": "/static/media/nelson-santos.1499269d.png",
     "static/media/networks-1.jpg": "/static/media/networks-1.06959090.jpg",
     "static/media/paper-kit.scss?v=1.2.0": "/static/media/nucleo-icons.f32ed5ad.eot",
-    "static/media/nuno-sequeira.png": "/static/media/nuno-sequeira.1499269d.png",
+    "static/media/nuno-sequeira.jpg": "/static/media/nuno-sequeira.3f80af54.jpg",
+    "static/media/nuno-sequeira.png": "/static/media/nuno-sequeira.5b38697c.png",
     "static/media/quantum-computing-1.jpg": "/static/media/quantum-computing-1.e0202db0.jpg",
     "static/media/ruben-barreiro.png": "/static/media/ruben-barreiro.1499269d.png",
     "static/media/teresa-romao.png": "/static/media/teresa-romao.1499269d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e9acc9c.js",
-    "static/js/2.374f6d2a.chunk.js",
+    "static/js/2.311f6446.chunk.js",
     "static/css/main.dbf18cbc.chunk.css",
-    "static/js/main.bf1b0993.chunk.js"
+    "static/js/main.c30519ed.chunk.js"
   ]
 }
