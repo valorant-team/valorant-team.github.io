@@ -24,6 +24,7 @@ import { HashRouter, Route, Redirect, Switch } from "react-router-dom";
 import "assets/css/bootstrap.min.css";
 import "assets/scss/paper-kit.scss?v=1.2.0";
 import "assets/demo/demo.css?v=1.2.0";
+import "assets/css/index.css";
 // pages
 import Index from "views/Index.js";
 import NucleoIcons from "views/NucleoIcons.js";
