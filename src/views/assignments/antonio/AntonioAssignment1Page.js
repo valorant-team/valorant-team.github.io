@@ -105,8 +105,10 @@ function ProfilePage() {
               <img
                 alt="bad_design_example"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/antonio/assignment1/bad.png")}
-              />    
+                src={require("assets/img/antonio/assignment1/Optimized-bad.png")}
+              />  
+              
+             <br />  
 
 			 <p>
                A solution for this problem would be making a website where the first thing that user can see when entering is a search bar to insert the desired item.
@@ -121,7 +123,7 @@ function ProfilePage() {
              <img
                 alt="good_design_example"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/antonio/assignment1/good.png")}
+                src={require("assets/img/antonio/assignment1/Optimized-good.png")}
               /> 
 
             </Col>
