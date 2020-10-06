@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c66b2a946114218bfa48104e9fcb424",
+    "revision": "742e3791f6317c0e892e7ef64dee258c",
     "url": "/index.html"
   },
   {
-    "revision": "d4a00d08818696b8638b",
+    "revision": "50d863cb2ac7c4133a65",
     "url": "/static/css/main.21535fdb.chunk.css"
   },
   {
-    "revision": "d3ded6d20c3bdf2cb439",
-    "url": "/static/js/2.27beaa8b.chunk.js"
+    "revision": "073be6d9afb05d7e45e6",
+    "url": "/static/js/2.17fdfb71.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.27beaa8b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.17fdfb71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4a00d08818696b8638b",
-    "url": "/static/js/main.fbf526ba.chunk.js"
+    "revision": "50d863cb2ac7c4133a65",
+    "url": "/static/js/main.585226eb.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.fbf526ba.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.585226eb.chunk.js.LICENSE.txt"
   },
   {
     "revision": "76c3b8adc229df4932ff",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bfc688ca490f0079051aea5b8ec75cbe",
     "url": "/static/media/ayo-ogunseinde-2.bfc688ca.jpg"
+  },
+  {
+    "revision": "0d55ba2870d7ab920a798e26b7f35fda",
+    "url": "/static/media/bad.0d55ba28.png"
   },
   {
     "revision": "bb4b9ac9fd07e48f86c719495b65341c",
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7812184c3710d9623c684956fe048ddd",
     "url": "/static/media/fog-low.7812184c.png"
+  },
+  {
+    "revision": "7bf3f3a19cf462c3e255f16a1ef107fb",
+    "url": "/static/media/good.7bf3f3a1.png"
   },
   {
     "revision": "76ff47ae5c64ccda5af18326bb272058",
