@@ -90,7 +90,7 @@ function ProfilePage() {
               
               <br />
 
-              <h4><b>COMPARISON OF OFFICE CHAIRS</b></h4>
+              <h4 className="assignment-title"><b>COMPARISON OF OFFICE CHAIRS</b></h4>
 
               <p>
                 Office chairs are good for people that spend lots of time sitting in front 
@@ -102,7 +102,7 @@ function ProfilePage() {
 
               <p>Let's now, compare two examples of office chairs and analyse which is good and which is bad.</p>
 
-              <p><b>THE GOOD</b></p>
+              <p className="assignment-subtitle"><b>THE GOOD</b></p>
 
               <p>
                 A great design stands out immediately. Just by looking, people can tell that 
@@ -122,11 +122,9 @@ function ProfilePage() {
                 A closeup from the image below shows the levers to adjust several aspects of the chair, correspondently:
               </p>
 
-              <ul>
-                <li>Adjust height</li>
-                <li>Strength to lean back</li>
-                <li>Lock degrees of leaning</li>
-              </ul>
+              <p>Adjust height</p>
+              <p>Strength to lean back</p>
+              <p>Lock degrees of leaning</p>
 
               <img
                 alt="good_design_closeup"
@@ -134,7 +132,7 @@ function ProfilePage() {
                 src={require("assets/img/nuno/assignment1/good_design_closeup.jpeg")}
               />
 
-              <p><b>THE BAD</b></p>
+              <p className="assignment-subtitle"><b>THE BAD</b></p>
 
               <p>
                 A nice design catches the attention of the eye. However, the 
@@ -154,9 +152,7 @@ function ProfilePage() {
                 The closeup for this chair, really shows that it only has one configurable aspect, which is:
               </p>
 
-              <ul>
-                <li>Adjust height</li>
-              </ul>
+              <p>Adjust height</p>
 
               <img
                 alt="bad_design_closeup"
@@ -164,7 +160,7 @@ function ProfilePage() {
                 src={require("assets/img/nuno/assignment1/bad_design_closeup.jpeg")}
               />
 
-              <p><b>THE VERDICT</b></p>
+              <p className="assignment-subtitle"><b>THE VERDICT</b></p>
 
               <p>
                 The several reasons as to why the chairs look so different seem 
