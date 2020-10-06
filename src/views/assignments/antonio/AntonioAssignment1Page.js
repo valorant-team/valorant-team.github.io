@@ -71,7 +71,7 @@ function ProfilePage() {
             </div>
             <div className="name">
               <h4 className="title">
-                <b>António</b>
+                <b>António Morais</b>
                 <br />
               </h4>
               <h6 className="description">Computer Scientist/Engineer and Master Student</h6>
