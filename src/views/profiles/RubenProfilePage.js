@@ -117,7 +117,7 @@ function RubenProfilePage() {
               </p>
               <br />
               <p>
-                In this moment, I'm currently about to start working on my <i><b>Master Thesis</b></i>, at <i><b>Quantum Computing</b></i> area, focused in <i><b>Quantum Cryptography</b></i> (and also in, <i><b>Quantum Networks/Internet</b></i>), under the supervision of <a href="https://ciencias.ulisboa.pt/pt/perfil/ansouto" target="_blank"><i><b>Prof. André Souto</b></i></a> and <a href="http://ctp.di.fct.unl.pt/~aravara/" target="_blank"><i><b>Prof. António Ravara</b></i></a>. 
+                In this moment, I'm currently working on my <i><b>Master Thesis</b></i>, at <i><b>Quantum Computing</b></i> area, focused in <i><b>Quantum Cryptography</b></i> (and also in, <i><b>Quantum Networks/Internet</b></i>), most specifically in <i><b>QCKA (Quantum Conference Key Agreement)</b></i> and its applications for <i><b>Quantum Networks/Internet</b></i>, for <i><b>QKD (Quantum Key Distribution) protocols</b></i>, under the supervision of <a href="https://ciencias.ulisboa.pt/pt/perfil/ansouto" target="_blank"><i><b>Prof. André Souto</b></i></a> and <a href="http://ctp.di.fct.unl.pt/~aravara/" target="_blank"><i><b>Prof. António Ravara</b></i></a>. 
               </p>
 
               <hr />
