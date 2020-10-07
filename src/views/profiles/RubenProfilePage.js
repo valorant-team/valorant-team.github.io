@@ -1250,7 +1250,7 @@ function RubenProfilePage() {
                           <img
                           alt="Assignment #1" class="assignment-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/ruben/assignment-1/assignment-1-cover.jpg")}
                           />  
                          </div>
                          <div class="overlay">
