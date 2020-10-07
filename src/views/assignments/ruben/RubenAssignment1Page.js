@@ -90,6 +90,13 @@ function ProfilePage() {
               
               <br />
               
+              <h4 className="assignment-subtitle"><b>Goal</b></h4>
+              
+              <p>
+                Find out one example of good user interface design and one example of bad user interface design.
+              </p>
+              <br />
+                  
               <h4 className="assignment-title">
                   <b>Good Design</b>
               </h4>  
