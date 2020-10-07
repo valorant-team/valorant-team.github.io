@@ -66,12 +66,12 @@ function AntonioProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/ruben-barreiro.png")}
+                src={require("assets/img/faces/antonio-morais.png")}
               />
             </div>
             <div className="name">
               <h4 className="title">
-                <b>Rúben André Barreiro</b>
+                <b>António Morais</b>
                 <br />
               </h4>
               <h6 className="description">Computer Scientist/Engineer and Master Student</h6>
@@ -88,37 +88,8 @@ function AntonioProfilePage() {
               
               <br />
                   
-              <p>
-                I'm a <i>hard-working</i> and <i>passionate</i> <b>Computer Scientist and Engineer</b> with <i>huge dreams</i>. I'm currently finishing the <b>Master</b> at <a href="https://www.fct.unl.pt/en" target="_blank"><b>NOVA School of Sciences and Technology (FCT NOVA)</b></a>.
-              </p>
-              <br />
-              <p>
-                I have a <i>huge eagerness to learn and improve myself everyday</i>, <i>professionally</i> and <i>personally</i>.
-              </p>
-              <br />
-              <p>
-                I have a <i>deep passion</i> for <i><b>IT</b></i> and <i><b>Technology</b></i> areas. And, I also have a <i>big interest</i> in <i><b>design</b></i>, <i><b>photography</b></i>, <i><b>multimedia</b></i>, <i><b>fashion</b></i>, <i><b>business</b></i>, <i><b>enterprise's management</b></i>, <i><b>marketing</b></i>, <i><b>drawing</b></i> and <i><b>poetry</b></i>.
-              </p>
-              <br />
-              <p>
-                I'm <i>strongly motivated by my goals and ambitions</i>, <i>never giving up of them</i> and <i>I'm easy to get along with</i>.
-              </p>
-              <br />
-              <p>
-                In <i><b>Computer Science and Engineering</b></i>, I like <i><b>Logic</b></i>, <i><b>Computer Networks</b></i>, <i><b>Computer Graphics</b></i>, <i><b>Artificial Intelligence</b></i>, <i><b>Distributed Systems</b></i>, <i><b>Edge/Fog Computing</b></i>, <i><b>Cloud Computing</b></i>, <i><b>Network & Internet Security</b></i>, <i><b>Cryptography</b></i>, <i><b>Concurrent & Parallel Systems</b></i>, <i><b>High Performance Computing</b></i>, <i><b>GPU Programming</b></i>, <i><b>Machine Learning</b></i>, <i><b>Autonomous Multi-Agent Systems</b></i>, <i><b>Robotics</b></i> and <i><b>Quantum Computing</b></i>.
-              </p>
-              <br />
-              <p>
-                During the <i><b>BSc.</b></i> degree, I worked, in the context of <i><b>Research & Development (R&D)</b></i>, focused in <i><b>Edge Computing</b></i>, in the <a href="https://nova-lincs.di.fct.unl.pt/" target="_target"><i><b>NOVA Laboratory for Computer Science and Informatics (NOVA LINCS)</b></i></a>, at <a href="https://www.fct.unl.pt/en" target="_blank"><i><b>NOVA School of Sciences and Technology (FCT NOVA)</b></i></a>, in the <a href="https://hyrax.dcc.fc.up.pt/" target="_blank"><i><b>Hyrax Project: Crowd-Sourcing Mobile Devices to Develop Edge Clouds</b></i></a>, in the <i><b>DiCE: Distributed Computing at the Edge</b></i> sub-module, under the supervision of <a href="https://docentes.fct.unl.pt/p161/" target="_blank"><i><b>Prof. Hervé Paulino</b></i></a>. This project had the collaboration of <a href="https://www.cs.cmu.edu/" target="_blank"><i><b>Carnegie Mellon School of Computer Science</b></i></a> and <a href="https://sigarra.up.pt/fcup/en/web_page.inicial" target="_blank"><i><b>Faculty of Sciences of University of Porto</b></i></a>, among many other <i>industrial</i> and <i>academic</i> <i>instutitions</i>. 
-              </p>
-              <br />
-              <p>
-                I made a <i><b>short-term internship</b></i>, also in the context of <i><b>Research & Development (R&D)</b></i>, focused in <i><b>Communications for Data Dissemination and Situation Awareness</b></i> for <i><b>Autonomous Underwater Vehicles (AUVs)</b></i> in the <a href="https://lsts.fe.up.pt/" target="_target"><i><b>Underwater Systems and Technology Laboratory/Laboratório de Sistemas e Tecnologia Subaquática (LSTS)</b></i></a>, at <a href="https://sigarra.up.pt/feup/en/web_page.inicial" target="_blank"><i><b>Faculty of Engineering of University of Porto (FEUP)</b></i></a>, in the <a href="https://lsts.fe.up.pt/toolchain/ripples" target="_blank"><i><b>Ripples Project</b></i></a>.
-              </p>
-              <br />
-              <p>
-                In this moment, I'm currently about to start working on my <i><b>Master Thesis</b></i>, at <i><b>Quantum Computing</b></i> area, focused in <i><b>Quantum Cryptography</b></i> (and also in, <i><b>Quantum Networks/Internet</b></i>), under the supervision of <a href="https://ciencias.ulisboa.pt/pt/perfil/ansouto" target="_blank"><i><b>Prof. André Souto</b></i></a> and <a href="http://ctp.di.fct.unl.pt/~aravara/" target="_blank"><i><b>Prof. António Ravara</b></i></a>. 
-              </p>
+              <h6><b>N/A</b></h6>
+               
 
               <hr />
             
@@ -128,13 +99,13 @@ function AntonioProfilePage() {
             
               <br />
                   
-              <a href="https://www.facebook.com/ruben.andre.letra.barreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-facebook" /> Facebook
                 </Button>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://www.instagram.com/ruben.visionary/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                   <i className="fa fa-instagram" /> Instagram
                 </Button>
@@ -143,13 +114,13 @@ function AntonioProfilePage() {
               <br />
               <br />
 
-              <a href="https://twitter.com/ruben_visionary/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                   <i className="fa fa-twitter" /> Twitter
                 </Button>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://www.pinterest.com/ruben_visionary/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                   <i className="fa fa-pinterest" /> Pinterest
                 </Button>
@@ -163,13 +134,13 @@ function AntonioProfilePage() {
             
               <br />
               
-              <a href="https://www.linkedin.com/in/rubenandrebarreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-linkedin" /> LinkedIn
                 </Button>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://stackoverflow.com/story/rubenandrebarreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-stack-overflow" /> Stack Overflow
                 </Button>
@@ -178,13 +149,13 @@ function AntonioProfilePage() {
               <br />
               <br />
 
-              <a href="https://rubenandrebarreiro.github.io/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-github" /> GitHub
                 </Button>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://github.com/rubenandrebarreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-github" /> GitHub
                 </Button>
@@ -193,13 +164,13 @@ function AntonioProfilePage() {
               <br />
               <br />
 
-              <a href="https://bitbucket.org/rubenandrebarreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-bitbucket" /> Bitbucket
                 </Button>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://gitlab.com/rubenandrebarreiro/" target="_blank">
+              <a href="/" target="_blank">
                 <Button className="btn-round" color="default" outline>
                     <i className="fa fa-gitlab" /> GitLab
                 </Button>
@@ -282,22 +253,22 @@ function AntonioProfilePage() {
               <TabPane tabId="1" id="personal-info">
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Full Name:</b>&nbsp;&nbsp;&nbsp;Rúben André Letra Barreiro
+                      <b>Full Name:</b>&nbsp;&nbsp;&nbsp;António Diogo Paulino Morais
                   </Col>
               </Row>
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Residence City:</b>&nbsp;&nbsp;&nbsp;Almada, Setúbal, Portugal
+                      <b>Residence City:</b>&nbsp;&nbsp;&nbsp;Angra do Heroísmo, Açores, Portugal
                   </Col>
               </Row>
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Birthday:</b>&nbsp;&nbsp;&nbsp;November 19
+                      <b>Birthday:</b>&nbsp;&nbsp;&nbsp;February 8
                   </Col>
               </Row>
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Zodiac Sign:</b>&nbsp;&nbsp;&nbsp;Scorpio
+                      <b>Zodiac Sign:</b>&nbsp;&nbsp;&nbsp;Aquarius
                   </Col>
               </Row>
               <br />
@@ -318,7 +289,7 @@ function AntonioProfilePage() {
               </Row>
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Student No.:</b>&nbsp;&nbsp;&nbsp;42648
+                      <b>Student No.:</b>&nbsp;&nbsp;&nbsp;47774
                   </Col>
               </Row>
               <br />
@@ -334,7 +305,7 @@ function AntonioProfilePage() {
               </Row>
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <b>Main Roles:</b>&nbsp;&nbsp;&nbsp;CTO (Chief Technology Officer) and CDO (Chief Digital Officer)
+                      <b>Main Roles:</b>&nbsp;&nbsp;&nbsp;CIO (Chief Information Officer)
                   </Col>
               </Row>
               <Row>
