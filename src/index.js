@@ -56,6 +56,8 @@ import RubenAssignment2Page from "views/assignments/ruben/RubenAssignment2Page.j
 import RubenAssignment3Page from "views/assignments/ruben/RubenAssignment3Page.js";
 import RubenAssignment4Page from "views/assignments/ruben/RubenAssignment4Page.js";
 
+import ProjectStage1Page from "views/project-stages/ProjectStage1Page.js";
+
 import RegisterPage from "views/examples/RegisterPage.js";
 // others
 
@@ -154,6 +156,11 @@ ReactDOM.render(
       <Route exact
         path="/assignments/ruben-assignment-4"
         render={(props) => <RubenAssignment4Page {...props} />}
+      />
+
+      <Route exact
+        path="/project-stages/project-stage-1-page"
+        render={(props) => <ProjectStage1Page {...props} />}
       />
 
       <Route exact
