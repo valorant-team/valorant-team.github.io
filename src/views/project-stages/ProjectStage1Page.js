@@ -72,7 +72,7 @@ function LandingPage() {
                   </p>
                   <br />
                   <p>
-                    Feeding, and remembering the <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"><i><b>Maslow’s Pyramid</b></i>, is a <i>physiological necessity</i> and is found at the base of the pyramid, thus supporting all adjacent layers.
+                    Feeding, and remembering the <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"><i><b>Maslow’s Pyramid</b></i></a>, is a <i>physiological necessity</i> and is found at the base of the pyramid, thus supporting all adjacent layers.
                   </p>
                   <br />
                   <p>
