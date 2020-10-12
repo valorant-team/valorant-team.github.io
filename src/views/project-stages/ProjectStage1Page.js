@@ -135,19 +135,19 @@ function LandingPage() {
                   </p>
                   <ol>
                     <li>
-                       Create a Recipe Repository with a step-by-step guide, and live timers to ease up the process of cooking;
+                       Create a <i><b>Recipe Repository</b></i> with a <i>step-by-step guide</i>, and <i>live timers</i> to <i><b>ease up</b></i> the <i>process of cooking</i>;
                     </li>
                     <br />
                     <li>
-                       Recommend a recipe according to the ingredients indicated by user;
+                       <i><b>Recommend a recipe</b></i> according to the <i>ingredients</i> indicated by <i>user</i>;
                     </li>
                     <br />
                     <li>
-                       According to the objectives indicated above, the application will display the price of the recipe or ingredients selected by user;
+                       According to the objectives indicated above, the <i>application</i> will <i><b>display the price of the recipe or ingredients</b></i> selected by <i>user</i>;
                     </li>
                     <br />
                     <li>
-                       Allow people to share and comment each other plates, improving recipes over time;
+                       <i><b>Allow people to share and comment each other plates</b></i>, improving <i>recipes</i> over <i>time</i>;
                     </li>
                   </ol>
                 </h5>
