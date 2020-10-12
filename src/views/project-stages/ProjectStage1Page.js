@@ -178,7 +178,7 @@ function LandingPage() {
                 <Button
                   className="btn-round"
                   color="info"
-                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/hci-project-stage-1.pdf"
+                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/hci-project-stage-1.pdf" target="_blank"
                 >
                   Download PDF
                 </Button>

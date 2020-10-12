@@ -48,7 +48,7 @@ function SectionProjectStages() {
           </p>
           <ul>
             <li>
-                <a href="#/project-stages/project-stage-1-page"><u><i><b>Project Stage #1</b></i></u></a>
+                <a href="#/project-stages/project-stage-1-page"><u><i><b>Project Stage #1</b></i></u></a> (<a href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/hci-project-stage-1.pdf" target="_blank"><i><b>Report</b></i></a>)
             </li>
           </ul>
         </Container>
