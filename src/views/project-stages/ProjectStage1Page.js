@@ -70,6 +70,26 @@ function LandingPage() {
                   <p>
                     Often, the new <i><b>"Home Chefs"</b></i> have a problem to start new recipes. People <i><b>should not</b></i> be afraid to <i><b>try new things</b></i>.
                   </p>
+                  <br />
+                  <p>
+                    Feeding, and remembering the <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"><i><b>Maslow’s Pyramid</b></i>, is a <i>physiological necessity</i> and is found at the base of the pyramid, thus supporting all adjacent layers.
+                  </p>
+                  <br />
+                  <p>
+                    With the rise of <i><b>remote work</b></i>, influenced by the current <i>pandemic</i>, people, as they spend more <i><b>time</b></i> at home, need to <i>plan</i> and <i>vary</i> their <i>meals</i>. For the <i>profitability</i> of <i><b>time</b></i>, it is necessary to have a <i><b>Recipe Repository</b></i> in order to be consulted, as well as its <i>ingredients</i> and <i>steps to follow</i>.
+                  </p>
+                  <br />
+                  <p>
+                    Sometimes, the imagination to <i><b>cook</b></i>, a little due to <i>routines</i>, is scarce. In some situations we have already faced the situation of having few <i>ingredients</i> and not knowing what to <i><b>cook</b></i>.
+                  </p>
+                  <br />
+                  <p>
+                    In addition to <i><b>time</b></i> <i>management</i>, it's also important made a good <i>resource management</i>. Thus, it becomes important to have knowledge of the places of sale of the <i>ingredients</i> that have the <i>best prices</i>.
+                  </p>
+                  <br />
+                  <p>
+                    As we live in an era of <i>social networks</i>, we sometimes find <i>recipes</i> in <i>Web searches</i>, but we do not find <i><b>any</b></i> <i>opinion</i> or <i>classification</i> of the same.
+                  </p>
                 </h5>
                 <br />
                 <br />
@@ -81,23 +101,23 @@ function LandingPage() {
                   </p>
                   <ul>
                     <li>
-                      Teenagers/Young Adults, starting to cook and learning about it;
+                      <i><b>Teenagers/Young Adults</i></b>, starting to <i>cook</i> and learning about it;
                     </li>
                     <br />
                     <li>
-                      Families with limitations of time, due to their jobs, home tasks and daily responsibilities;
+                      <i><b>Families</b></i> with limitations of <i><b>time</b></i>, due to their <i>jobs</i>, <i>home tasks</i> and <i>daily responsibilities</i>;
                     </li>
                     <br />
                     <li>
-                      Elder People, with difficulties and limitations of movements/dislocations;
+                      <i><b>Elder People</b></i>, with difficulties and limitations of movements/dislocations;
                     </li>
                     <br />
                     <li>
-                      Inexperienced Cookers/Chefs, who want to learn new recipes with other experienced Cookers/Chefs;
+                      Inexperienced <i><b>Cookers/Chefs</b></i>, who want to learn new <i>recipes</i> with other experienced <i><b>Cookers/Chefs</b></i>;
                     </li>
                     <br />
                     <li>
-                      Experienced Cookers/Chefs, who want to share and/or promote their recipes with other people, including other Cookers/Chefs;
+                      Experienced <i><b>Cookers/Chefs</b></i>, who want to <i>share</i> and/or <i>promote</i> their <i>recipes</i> with other people, including other <i><b>Cookers/Chefs</b></i>;
                     </li>
                   </ul>
                 </h5>
