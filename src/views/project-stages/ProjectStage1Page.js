@@ -101,7 +101,7 @@ function LandingPage() {
                   </p>
                   <ul>
                     <li>
-                      <i><b>Teenagers/Young Adults</i></b>, starting to <i>cook</i> and learning about it;
+                      <i><b>Teenagers/Young Adults</b></i>, starting to <i>cook</i> and learning about it;
                     </li>
                     <br />
                     <li>
