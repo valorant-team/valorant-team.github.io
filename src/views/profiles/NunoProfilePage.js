@@ -66,7 +66,7 @@ function NunoProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/ruben-barreiro.png")}
+                src={require("assets/img/faces/nuno-sequeira.png")}
               />
             </div>
             <div className="name">

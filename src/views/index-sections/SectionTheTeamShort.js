@@ -88,7 +88,7 @@ function SectionTheTeamShort() {
 							<img
 								alt="..."
 								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/nelson-santos.jpeg")}
+								src={require("assets/img/faces/nelson-santos.png")}
 							/>
 							<hr />
 							<p className="text-center">CEO</p>
