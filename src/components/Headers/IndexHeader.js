@@ -68,20 +68,20 @@ function IndexHeader() {
             target="_blank"
           >
             <img
-              alt="..."
+              alt="Creative Tim"
               className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
+              src={require("assets/img/logos/creative-tim-white-slim2.png")}
             />
           </a>&nbsp;&nbsp;&nbsp;|&nbsp;
           Adapted by{" "}
           <a
-            href="https://www.creative-tim.com?ref=pkr-index-page"
+            href="https://valorant-team.github.io/"
             target="_blank"
           >
             <img
-              alt="..."
-              className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
+              alt="Valorant Team"
+              className="valorant-team-logo"
+              src={require("assets/img/logos/valorant-team-logo-2.png")}
             />
           </a>
         </h6>
