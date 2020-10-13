@@ -60,6 +60,8 @@ function LandingPage() {
                 <h2 className="title"><i><b>Masterbook</b></i></h2>
                 <hr />
                 <br />
+                <img src="./#/src/assets/img/logos/masterbook-logo.png" alt="Masterbook - Logo" width="500" />
+                <br />
                 <h3 className="problem-description-title">1. Problem Description</h3>
                 <br />
                 <h5 className="problem-description">
