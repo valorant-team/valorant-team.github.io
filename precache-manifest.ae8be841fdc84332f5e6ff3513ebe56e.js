@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40c6702b2d1dd2d79c90bf4bbf845e18",
+    "revision": "4ea4757cd063d1744bbd5c6a80c492c0",
     "url": "/index.html"
   },
   {
-    "revision": "b75cb7167151e587694b",
+    "revision": "0ab58b36a2a7b560719d",
     "url": "/static/css/main.21535fdb.chunk.css"
   },
   {
-    "revision": "1103dc415ec9737f089f",
-    "url": "/static/js/2.144a4ae4.chunk.js"
+    "revision": "c050716493c752aec57e",
+    "url": "/static/js/2.430d9331.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.144a4ae4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.430d9331.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b75cb7167151e587694b",
-    "url": "/static/js/main.b5255a39.chunk.js"
+    "revision": "0ab58b36a2a7b560719d",
+    "url": "/static/js/main.ba723766.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.b5255a39.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.ba723766.chunk.js.LICENSE.txt"
   },
   {
     "revision": "76c3b8adc229df4932ff",
@@ -162,5 +162,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3db95e0b4db1a91c8f239e3f84bb663a",
     "url": "/static/media/teresa-romao.3db95e0b.png"
+  },
+  {
+    "revision": "eeb2822b9244f9834094bd1ba1750a5b",
+    "url": "/static/media/valorant-team-logo-2.eeb2822b.png"
   }
 ]);
