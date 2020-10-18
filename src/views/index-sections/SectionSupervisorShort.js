@@ -49,11 +49,13 @@ function SectionTheTeamShort() {
           <Row>
               <Col className="mr-auto ml-auto" md="3" sm="3">
                 <h4 className="images-title"><center><b>Teresa Romão</b></center></h4>
-                <img
-                  alt="..."
-                  className="img-circle img-no-padding img-responsive"
-                  src={require("assets/img/faces/teresa-romao.png")}
-                />
+                <a href="http://ctp.di.fct.unl.pt/~tir/">
+                    <img
+                      alt="..."
+                      className="img-circle img-no-padding img-responsive"
+                      src={require("assets/img/team/people/faces/teresa-romao.png")}
+                    />
+                </a>
                 <hr />
                 <p className="text-center">Supervisor</p>
                 <p className="text-center">Advisor</p>
@@ -61,7 +63,14 @@ function SectionTheTeamShort() {
                 <hr />
                 <p className="text-center">
                 <i className="nc-icon nc-email-85" /> <b>E-mail [at] <br/>fct.unl.pt:</b>
-                <br /><a href="mailto:ad.morais@campus.fct.unl.pt">tir</a>
+                <br /><a href="mailto:tir@fct.unl.pt">tir</a>
+                <hr />
+                <p className="text-center">
+                    <i className="nc-icon nc-tap-01" /> <b>Other Links:</b>
+                    <br />
+                    <b>&bull;</b> <i className="nc-icon nc-circle-10" />{" "}
+                    <a href="http://ctp.di.fct.unl.pt/~tir/">Personal Web Page</a>
+                </p>
                 </p>
               </Col>
           </Row>

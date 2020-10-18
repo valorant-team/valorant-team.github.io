@@ -66,7 +66,7 @@ function ProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/nuno-sequeira.png")}
+                src={require("assets/img/team/people/faces/nuno-sequeira.png")}
               />
             </div>
             <div className="name">
@@ -115,7 +115,7 @@ function ProfilePage() {
               <img
                 alt="good_design_front"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/nuno/assignment1/good_design_front.jpeg")}
+                src={require("assets/img/assignments/nuno/assignment-1/good-design-front.jpg")}
               />
 
               <p>
@@ -129,7 +129,7 @@ function ProfilePage() {
               <img
                 alt="good_design_closeup"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/nuno/assignment1/good_design_closeup.jpeg")}
+                src={require("assets/img/assignments/nuno/assignment-1/good-design-closeup.jpg")}
               />
 
               <p className="assignment-subtitle"><b>THE BAD</b></p>
@@ -145,7 +145,7 @@ function ProfilePage() {
               <img
                 alt="bad_design_front"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/nuno/assignment1/bad_design_front.jpeg")}
+                src={require("assets/img/assignments/nuno/assignment-1/bad-design-front.jpg")}
               />
 
               <p>
@@ -157,7 +157,7 @@ function ProfilePage() {
               <img
                 alt="bad_design_closeup"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/nuno/assignment1/bad_design_closeup.jpeg")}
+                src={require("assets/img/assignments/nuno/assignment-1/bad-design-closeup.jpg")}
               />
 
               <p className="assignment-subtitle"><b>THE VERDICT</b></p>

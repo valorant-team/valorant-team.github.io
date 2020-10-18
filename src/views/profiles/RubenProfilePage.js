@@ -66,7 +66,7 @@ function RubenProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/ruben-barreiro.png")}
+                src={require("assets/img/team/people/faces/ruben-barreiro.png")}
               />
             </div>
             <div className="name">
@@ -1154,7 +1154,7 @@ function RubenProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/quantum-computing-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/quantum-computing-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1173,7 +1173,7 @@ function RubenProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/cryptography-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/cryptography-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1192,7 +1192,7 @@ function RubenProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/networks-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/networks-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1211,7 +1211,7 @@ function RubenProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1230,7 +1230,53 @@ function RubenProfilePage() {
             <TabPane tabId="4" id="tasks">
               <Row>
                   <Col className="ml-auto mr-auto" md="10">
-                      <h4><b>N/A</b></h4>
+                      <ul>
+                        <li>
+                            <h6>
+                                Development of the <u><i><b>Web Page</b></i></u> of the <u><i><b>Team</b></i></u>:
+                            </h6>
+                            <ul>
+                                <li>
+                                    <b>Period</b>: <i>September 2020 - December 2020</i>; 
+                                </li>
+                                <li>
+                                    <b>Status</b>: <i>Ongoing</i>;
+                                </li>
+                            </ul>
+                        </li>
+
+                        <br />
+                                    
+                        <li>
+                            <h6>
+                                Development of the <u><i><b>Logotype</b></i></u> of the <u><i><b>Team</b></i></u>:
+                            </h6>
+                            <ul>
+                                <li>
+                                    <b>Period</b>: September 2020 - September 2020 
+                                </li>
+                                <li>
+                                    <b>Status</b>: Finished;
+                                </li>
+                            </ul>
+                        </li>
+
+                        <br />
+                                    
+                        <li>
+                            <h6>
+                                Development of the <u><i><b>Logotype</b></i></u> of the <u><i><b>Masterbook</b></i></u> <i>application</i>:
+                            </h6>
+                            <ul>
+                                <li>
+                                    <b>Period</b>: October 2020 - October 2020 
+                                </li>
+                                <li>
+                                    <b>Status</b>: Finished;
+                                </li>
+                            </ul>
+                        </li>
+                      </ul>
                   </Col>
               </Row>
             </TabPane>
@@ -1245,12 +1291,12 @@ function RubenProfilePage() {
               <Row>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/ruben-assignment-1">
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #1" class="assignment-img"
+                          alt="Assignment #1" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/ruben/assignment-1/assignment-1-cover.jpg")}
+                          src={require("assets/img/assignments/ruben/assignment-1/assignment-1-cover.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1261,12 +1307,12 @@ function RubenProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                      <a href="./#/assignments/ruben-assignment-2">  
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #2" class="assignment-img"
+                          alt="Assignment #2" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1277,12 +1323,12 @@ function RubenProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/ruben-assignment-2">  
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #3" class="assignment-img"
+                          alt="Assignment #3" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1293,12 +1339,12 @@ function RubenProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/ruben-assignment-4">  
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #4" class="assignment-img"
+                          alt="Assignment #4" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">

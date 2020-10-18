@@ -66,7 +66,7 @@ function ProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/ruben-barreiro.png")}
+                src={require("assets/img/team/people/faces/ruben-barreiro.png")}
               />
             </div>
             <div className="name">
@@ -121,7 +121,7 @@ function ProfilePage() {
                  alt="Spotify - Screenshot #1"
                  className="img-no-padding img-responsive"
                  width="500"
-                 src={require("assets/img/ruben/assignment-1/spotify-good-design-1.png")}
+                 src={require("assets/img/assignments/ruben/assignment-1/spotify-good-design-1.png")}
               /> 
               <br />
               <br />
@@ -145,7 +145,7 @@ function ProfilePage() {
                  alt="Spotify - Screenshot #2"
                  className="img-no-padding img-responsive"
                  width="500"
-                 src={require("assets/img/ruben/assignment-1/spotify-good-design-2.png")}
+                 src={require("assets/img/assignments/ruben/assignment-1/spotify-good-design-2.png")}
               /> 
               <br />
               <br />
@@ -197,7 +197,7 @@ function ProfilePage() {
                 alt="Fast Food Tray Accident"
                 className="img-no-padding img-responsive"
                 width="300"
-                src={require("assets/img/ruben/assignment-1/fast-food-tray-accident-fall.gif")}
+                src={require("assets/img/assignments/ruben/assignment-1/fast-food-tray-accident-fall.gif")}
               />
               <br />
               <br />
@@ -226,7 +226,7 @@ function ProfilePage() {
                  alt="Fast Food Tray - Bad Design"
                  className="img-no-padding img-responsive"
                  width="500"
-                 src={require("assets/img/ruben/assignment-1/fast-food-tray-bad-design-1.png")}
+                 src={require("assets/img/assignments/ruben/assignment-1/fast-food-tray-bad-design-1.png")}
               /> 
               <br />
               <br />
@@ -259,7 +259,7 @@ function ProfilePage() {
                  alt="Fast Food Tray - Design Improvement #1"
                  className="img-no-padding img-responsive"
                  width="500"
-                 src={require("assets/img/ruben/assignment-1/fast-food-tray-design-improvement-1.png")}
+                 src={require("assets/img/assignments/ruben/assignment-1/fast-food-tray-design-improvement-1.png")}
               /> 
               <br />
               <br />
@@ -288,7 +288,7 @@ function ProfilePage() {
                  alt="Fast Food Tray - Design Improvement #2"
                  className="img-no-padding img-responsive"
                  width="500"
-                 src={require("assets/img/ruben/assignment-1/fast-food-tray-design-improvement-2.png")}
+                 src={require("assets/img/assignments/ruben/assignment-1/fast-food-tray-design-improvement-2.png")}
               /> 
               <br />
               <br />

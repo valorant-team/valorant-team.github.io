@@ -18,7 +18,7 @@
 */
 import React from "react";
 
-// reactstrap components
+// Reactstrap Components
 import {
   Button,
   Card,
@@ -35,23 +35,23 @@ import {
   Col,
 } from "reactstrap";
 
-// core components
+// Core Components
 import PagesNavbar from "components/Navbars/PagesNavbar.js";
-import LandingPageHeader from "components/Headers/ProjectStageHeader.js";
+import ProjectStage1Header from "components/Headers/Project-Stages/Phase-1/ProjectStage1Header.js";
 import Footer from "components/Footers/Footer.js";
 
-function LandingPage() {
+function MasterbookProjectStage1() {
   document.documentElement.classList.remove("nav-open");
   React.useEffect(() => {
-    document.body.classList.add("profile-page");
+    document.body.classList.add("project-stage-1-page");
     return function cleanup() {
-      document.body.classList.remove("profile-page");
+      document.body.classList.remove("project-stage-1-page");
     };
   });
   return (
     <>
       <PagesNavbar />
-      <LandingPageHeader />
+      <ProjectStage1Header />
       <div className="main">
         <div className="section text-center">
           <Container>
@@ -66,7 +66,7 @@ function LandingPage() {
                 <br />
                 <h5 className="problem-description">
                   <p>
-                    One of the factors that is fundamental to the <i>management</i> of <i><b>society</b></i>'s <i><b>daily tasks</b></i> is the <i><b>time</b></i> available. Whether <i>families</i> or <i>individuals</i>, the <i><b>time</b></i> spent on <i><b>daily tasks</b></i> must be managed accurately to achieve <i><b>goals</b></i>.
+                    One of the factors that is fundamental to the management of <i><b>society</b></i>'s <i><b>daily tasks</b></i> is the <i><b>time</b></i> available. Whether <i>families</i> or <i>individuals</i>, the <i><b>time</b></i> spent on <i><b>daily tasks</b></i> must be managed accurately to achieve <i><b>goals</b></i>.
                   </p>
                   <br />
                   <p>
@@ -101,27 +101,29 @@ function LandingPage() {
                   <p>
                     Our target users, can be generalised as the following:
                   </p>
-                  <ul>
-                    <li>
-                      <i><b>Teenagers/Young Adults</b></i>, starting to <i>cook</i> and learning about it;
-                    </li>
-                    <br />
-                    <li>
-                      <i><b>Families</b></i> with limitations of <i><b>time</b></i>, due to their <i>jobs</i>, <i>home tasks</i> and <i>daily responsibilities</i>;
-                    </li>
-                    <br />
-                    <li>
-                      <i><b>Elder People</b></i>, with difficulties and limitations of movements/dislocations;
-                    </li>
-                    <br />
-                    <li>
-                      Inexperienced <i><b>Cookers/Chefs</b></i>, who want to learn new <i>recipes</i> with other experienced <i><b>Cookers/Chefs</b></i>;
-                    </li>
-                    <br />
-                    <li>
-                      Experienced <i><b>Cookers/Chefs</b></i>, who want to <i>share</i> and/or <i>promote</i> their <i>recipes</i> with other people, including other <i><b>Cookers/Chefs</b></i>;
-                    </li>
-                  </ul>
+                  <p>
+                      <ul>
+                        <li>
+                          <i><b>Teenagers/Young Adults</b></i>, starting to <i>cook</i> and learning about it;
+                        </li>
+                        <br />
+                        <li>
+                          <i><b>Families</b></i> with limitations of <i><b>time</b></i>, due to their <i>jobs</i>, <i>home tasks</i> and <i>daily responsibilities</i>;
+                        </li>
+                        <br />
+                        <li>
+                          <i><b>Elder People</b></i>, with difficulties and limitations of movements/dislocations;
+                        </li>
+                        <br />
+                        <li>
+                          Inexperienced <i><b>Cookers/Chefs</b></i>, who want to learn new <i>recipes</i> with other experienced <i><b>Cookers/Chefs</b></i>;
+                        </li>
+                        <br />
+                        <li>
+                          Experienced <i><b>Cookers/Chefs</b></i>, who want to <i>share</i> and/or <i>promote</i> their <i>recipes</i> with other people, including other <i><b>Cookers/Chefs</b></i>;
+                        </li>
+                      </ul>
+                  </p>
                 </h5>
                 <br />
                 <br />
@@ -135,23 +137,25 @@ function LandingPage() {
                   <p>
                     The goals of our project are:
                   </p>
-                  <ol>
-                    <li>
-                       Create a <i><b>Recipe Repository</b></i> with a <i>step-by-step guide</i>, and <i>live timers</i> to <i><b>ease up</b></i> the <i>process of cooking</i>;
-                    </li>
-                    <br />
-                    <li>
-                       <i><b>Recommend a recipe</b></i> according to the <i>ingredients</i> indicated by <i>user</i>;
-                    </li>
-                    <br />
-                    <li>
-                       According to the objectives indicated above, the <i>application</i> will <i><b>display the price of the recipe or ingredients</b></i> selected by <i>user</i>;
-                    </li>
-                    <br />
-                    <li>
-                       <i><b>Allow people to share and comment each other plates</b></i>, improving <i>recipes</i> over <i>time</i>;
-                    </li>
-                  </ol>
+                  <p>
+                    <ol>
+                      <li>
+                         Create a <i><b>Recipe Repository</b></i> with a <i>step-by-step guide</i>, and <i>live timers</i> to <i><b>ease up</b></i> the <i>process of cooking</i>;
+                      </li>
+                      <br />
+                      <li>
+                         <i><b>Recommend a recipe</b></i> according to the <i>ingredients</i> indicated by <i>user</i>;
+                      </li>
+                      <br />
+                      <li>
+                         According to the objectives indicated above, the <i>application</i> will <i><b>display the price of the recipe or ingredients</b></i> selected by <i>user</i>;
+                      </li>
+                      <br />
+                      <li>
+                         <i><b>Allow people to share and comment each other plates</b></i>, improving <i>recipes</i> over <i>time</i>;
+                      </li>
+                    </ol>
+                  </p>
                 </h5>
                 <br />
                 <br />
@@ -180,7 +184,7 @@ function LandingPage() {
                 <Button
                   className="btn-round"
                   color="info"
-                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/hci-project-stage-1.pdf" target="_blank"
+                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/projects/masterbook/reports/phase-1/hci-masterbook-project-stage-1.pdf" target="_blank"
                 >
                   Download PDF
                 </Button>
@@ -194,4 +198,4 @@ function LandingPage() {
   );
 }
 
-export default LandingPage;
+export default MasterbookProjectStage1;

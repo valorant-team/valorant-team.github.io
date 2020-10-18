@@ -70,7 +70,7 @@ function IndexHeader() {
             <img
               alt="Creative Tim"
               className="creative-tim-logo"
-              src={require("assets/img/logos/creative-tim-white-slim2.png")}
+              src={require("assets/img/team/logos/creative-tim-white-slim.png")}
             />
           </a>&nbsp;&nbsp;&nbsp;|&nbsp;
           Adapted by{" "}
@@ -81,7 +81,7 @@ function IndexHeader() {
             <img
               alt="Valorant Team"
               className="valorant-team-logo"
-              src={require("assets/img/logos/valorant-team-logo-2.png")}
+              src={require("assets/img/team/logos/valorant-team-logo-2.png")}
             />
           </a>
         </h6>

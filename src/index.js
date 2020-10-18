@@ -15,17 +15,20 @@
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-*/
+*/ 
+
+// React and DOM
 import React from "react";
 import ReactDOM from "react-dom";
 import { HashRouter, Route, Redirect, Switch } from "react-router-dom";
 
-// styles
+// Styles
 import "assets/css/bootstrap.min.css";
 import "assets/scss/paper-kit.scss?v=1.2.0";
 import "assets/demo/demo.css?v=1.2.0";
 import "assets/css/index.css";
-// pages
+
+// Pages
 import Index from "views/Index.js";
 import NucleoIcons from "views/NucleoIcons.js";
 import LandingPage from "views/examples/LandingPage.js";
@@ -56,11 +59,17 @@ import RubenAssignment2Page from "views/assignments/ruben/RubenAssignment2Page.j
 import RubenAssignment3Page from "views/assignments/ruben/RubenAssignment3Page.js";
 import RubenAssignment4Page from "views/assignments/ruben/RubenAssignment4Page.js";
 
-import ProjectStage1Page from "views/project-stages/ProjectStage1Page.js";
+import MasterbookProjectOverviewPage from "views/projects/masterbook/MasterbookProjectOverviewPage.js";
+import MasterbookProjectStage1Page from "views/projects/masterbook/project-stages/phase-1/MasterbookProjectStage1Page.js";
+import MasterbookProjectStage2Page from "views/projects/masterbook/project-stages/phase-1/MasterbookProjectStage2Page.js";
+import MasterbookProjectStage3Page from "views/projects/masterbook/project-stages/phase-1/MasterbookProjectStage3Page.js";
+import MasterbookProjectStage4Page from "views/projects/masterbook/project-stages/phase-2/MasterbookProjectStage4Page.js";
+import MasterbookProjectStage5Page from "views/projects/masterbook/project-stages/phase-2/MasterbookProjectStage5Page.js";
+import MasterbookProjectStage6Page from "views/projects/masterbook/project-stages/phase-2/MasterbookProjectStage6Page.js";
 
 import RegisterPage from "views/examples/RegisterPage.js";
-// others
 
+// Others
 ReactDOM.render(
   <HashRouter>
     <Switch>
@@ -90,6 +99,7 @@ ReactDOM.render(
         render={(props) => <RubenProfilePage {...props} />}
       />
 
+      // Antonio's Assignments
       <Route exact
         path="/assignments/antonio-assignment-1"
         render={(props) => <AntonioAssignment1Page {...props} />}
@@ -107,6 +117,7 @@ ReactDOM.render(
         render={(props) => <AntonioAssignment4Page {...props} />}
       />
 
+      // Nelson's Assignments
       <Route exact
         path="/assignments/nelson-assignment-1"
         render={(props) => <NelsonAssignment1Page {...props} />}
@@ -124,6 +135,7 @@ ReactDOM.render(
         render={(props) => <NelsonAssignment4Page {...props} />}
       />
 
+      // Nuno's Assignments
       <Route exact
         path="/assignments/nuno-assignment-1"
         render={(props) => <NunoAssignment1Page {...props} />}
@@ -141,6 +153,7 @@ ReactDOM.render(
         render={(props) => <NunoAssignment4Page {...props} />}
       />
 
+      // Ruben's Assignments
       <Route exact
         path="/assignments/ruben-assignment-1"
         render={(props) => <RubenAssignment1Page {...props} />}
@@ -158,11 +171,37 @@ ReactDOM.render(
         render={(props) => <RubenAssignment4Page {...props} />}
       />
 
+      // Masterbook Application - Project's Stages
       <Route exact
-        path="/project-stages/project-stage-1-page"
-        render={(props) => <ProjectStage1Page {...props} />}
+        path="/projects/masterbook/project-overview-page"
+        render={(props) => <MasterbookProjectOverviewPage {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-1/project-stage-1-page"
+        render={(props) => <MasterbookProjectStage1Page {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-1/project-stage-2-page"
+        render={(props) => <MasterbookProjectStage2Page {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-1/project-stage-3-page"
+        render={(props) => <MasterbookProjectStage3Page {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-2/project-stage-4-page"
+        render={(props) => <MasterbookProjectStage4Page {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-2/project-stage-5-page"
+        render={(props) => <MasterbookProjectStage5Page {...props} />}
+      />
+      <Route exact
+        path="/projects/masterbook/project-stages/phase-2/project-stage-6-page"
+        render={(props) => <MasterbookProjectStage6Page {...props} />}
       />
 
+      // Others
       <Route exact
         path="/profile-page"
         render={(props) => <ProfilePage {...props} />}
@@ -171,6 +210,8 @@ ReactDOM.render(
         path="/register-page"
         render={(props) => <RegisterPage {...props} />}
       />
+
+      // Home
       <Redirect to="/" />
     </Switch>
   </HashRouter>,

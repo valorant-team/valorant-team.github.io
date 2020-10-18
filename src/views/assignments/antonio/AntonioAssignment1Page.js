@@ -66,7 +66,7 @@ function ProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/antonio-morais.png")}
+                src={require("assets/img/team/people/faces/antonio-morais.png")}
               />
             </div>
             <div className="name">
@@ -100,15 +100,19 @@ function ProfilePage() {
               
               <p>
                 An example for a bad user interface is the Arngren, it was a website used to sell electronic gadgets and appliances. Although the website completes its task of exhibiting all its marketable items, it is very difficult for the user to find the desired item.
-              </p>
-                  
+              </p>  
+              
+              <br />
+                
               <img
                 alt="bad_design_example"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/antonio/assignment1/Optimized-bad.png")}
+                width="500"
+                src={require("assets/img/assignments/antonio/assignment-1/optimized-bad.png")}
               />  
               
              <br />  
+             <br />    
 
 			 <p>
                A solution for this problem would be making a website where the first thing that user can see when entering is a search bar to insert the desired item.
@@ -118,12 +122,15 @@ function ProfilePage() {
               
              <p>
                 I considered Ebay a good user interface because one of the first things that shows up after entering the website is a search bar where the user can insert the desired item and the category for that item, thus making it easier for the user to complete his task.
-              </p> 
+              </p>  
+              
+             <br />  
               
              <img
                 alt="good_design_example"
                 className="img-no-padding img-responsive"
-                src={require("assets/img/antonio/assignment1/Optimized-good.png")}
+                width="500"
+                src={require("assets/img/assignments/antonio/assignment-1/optimized-good.png")}
               /> 
 
             </Col>

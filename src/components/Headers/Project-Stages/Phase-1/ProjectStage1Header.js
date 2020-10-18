@@ -23,7 +23,7 @@ import { Button, Container } from "reactstrap";
 
 // core components
 
-function ProjectStageHeader() {
+function ProjectStage1Header() {
   let pageHeader = React.createRef();
 
   React.useEffect(() => {
@@ -67,4 +67,4 @@ function ProjectStageHeader() {
   );
 }
 
-export default ProjectStageHeader;
+export default ProjectStage1Header;

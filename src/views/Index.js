@@ -29,7 +29,7 @@ import Footer from "components/Footers/Footer.js";
 import SectionAboutUsShort from "views/index-sections/SectionAboutUsShort.js";
 import SectionTheTeamShort from "views/index-sections/SectionTheTeamShort.js";
 import SectionSupervisorShort from "views/index-sections/SectionSupervisorShort.js";
-import SectionProjectStages from "views/index-sections/SectionProjectStages.js";
+import SectionProjectsOverviewShort from "views/index-sections/SectionProjectsOverviewShort.js";
 /*import SectionButtons from "views/index-sections/SectionButtons.js";
 import SectionNavbars from "views/index-sections/SectionNavbars.js";
 import SectionNavigation from "views/index-sections/SectionNavigation.js";
@@ -60,7 +60,7 @@ function Index() {
         <SectionAboutUsShort />
         <SectionTheTeamShort />
         <SectionSupervisorShort />
-        <SectionProjectStages />
+        <SectionProjectsOverviewShort />
         <Footer />
       </div>
     </>

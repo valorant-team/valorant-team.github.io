@@ -66,7 +66,7 @@ function NelsonProfilePage() {
 							<img
 								alt="..."
 								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/nelson-santos.png")}
+								src={require("assets/img/team/people/faces/nelson-santos.png")}
 							/>
 						</div>
 						<div className="name">
@@ -1290,13 +1290,13 @@ function NelsonProfilePage() {
 							<Row>
 								<Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
 									<a href="./#/assignments/nelson-assignment-1">
-										<div class="assignment" lg="3" md="4" xs="4">
-											<div class="assignment-img" lg="3" md="4" xs="4">
+										<div class="rounded-square" lg="3" md="4" xs="4">
+											<div class="rounded-square-img" lg="3" md="4" xs="4">
 												<img
 													alt="Assignment #1"
-													class="assignment-img"
+													class="rounded-square-img"
 													className="img-thumbnail img-no-padding img-responsive"
-													src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+													src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
 												/>
 											</div>
 											<div class="overlay">
@@ -1309,13 +1309,13 @@ function NelsonProfilePage() {
 								</Col>
 								<Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
 									<a href="./#/assignments/nelson-assignment-2">
-										<div class="assignment" lg="3" md="4" xs="4">
-											<div class="assignment-img" lg="3" md="4" xs="4">
+										<div class="rounded-square" lg="3" md="4" xs="4">
+											<div class="rounded-square-img" lg="3" md="4" xs="4">
 												<img
 													alt="Assignment #2"
-													class="assignment-img"
+													class="rounded-square-img"
 													className="img-thumbnail img-no-padding img-responsive"
-													src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+													src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
 												/>
 											</div>
 											<div class="overlay">
@@ -1328,13 +1328,13 @@ function NelsonProfilePage() {
 								</Col>
 								<Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
 									<a href="./#/assignments/nelson-assignment-3">
-										<div class="assignment" lg="3" md="4" xs="4">
-											<div class="assignment-img" lg="3" md="4" xs="4">
+										<div class="rounded-square" lg="3" md="4" xs="4">
+											<div class="rounded-square-img" lg="3" md="4" xs="4">
 												<img
 													alt="Assignment #3"
-													class="assignment-img"
+													class="rounded-square-img"
 													className="img-thumbnail img-no-padding img-responsive"
-													src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+													src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
 												/>
 											</div>
 											<div class="overlay">
@@ -1347,13 +1347,13 @@ function NelsonProfilePage() {
 								</Col>
 								<Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
 									<a href="./#/assignments/nelson-assignment-4">
-										<div class="assignment" lg="3" md="4" xs="4">
-											<div class="assignment-img" lg="3" md="4" xs="4">
+										<div class="rounded-square" lg="3" md="4" xs="4">
+											<div class="rounded-square-img" lg="3" md="4" xs="4">
 												<img
 													alt="Assignment #4"
-													class="assignment-img"
+													class="rounded-square-img"
 													className="img-thumbnail img-no-padding img-responsive"
-													src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+													src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
 												/>
 											</div>
 											<div class="overlay">

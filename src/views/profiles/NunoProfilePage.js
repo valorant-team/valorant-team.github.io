@@ -66,7 +66,7 @@ function NunoProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/nuno-sequeira.png")}
+                src={require("assets/img/team/people/faces/nuno-sequeira.png")}
               />
             </div>
             <div className="name">
@@ -1154,7 +1154,7 @@ function NunoProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/quantum-computing-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/quantum-computing-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1173,7 +1173,7 @@ function NunoProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/cryptography-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/cryptography-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1192,7 +1192,7 @@ function NunoProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/networks-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/networks-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1211,7 +1211,7 @@ function NunoProfilePage() {
                           <img
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
-                            src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                            src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="8" xs="4">
@@ -1245,12 +1245,12 @@ function NunoProfilePage() {
               <Row>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/nuno-assignment-1">
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #1" class="assignment-img"
+                          alt="Assignment #1" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/assignments/nuno/assignment-1/assignment-1-cover.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1261,12 +1261,12 @@ function NunoProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                      <a href="./#/assignments/nuno-assignment-2">  
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #2" class="assignment-img"
+                          alt="Assignment #2" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1277,12 +1277,12 @@ function NunoProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/nuno-assignment-3">
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #3" class="assignment-img"
+                          alt="Assignment #3" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">
@@ -1293,12 +1293,12 @@ function NunoProfilePage() {
                   </Col>
                   <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                     <a href="./#/assignments/nuno-assignment-4">
-                      <div class="assignment" lg="3" md="4" xs="4">
-                        <div class="assignment-img" lg="3" md="4" xs="4">  
+                      <div class="rounded-square" lg="3" md="4" xs="4">
+                        <div class="rounded-square-img" lg="3" md="4" xs="4">  
                           <img
-                          alt="Assignment #4" class="assignment-img"
+                          alt="Assignment #4" class="rounded-square-img"
                           className="img-thumbnail img-no-padding img-responsive"
-                          src={require("assets/img/interests/artificial-intelligence-1.jpg")}
+                          src={require("assets/img/team/people/interests/ruben/artificial-intelligence-1.jpg")}
                           />  
                          </div>
                          <div class="overlay">

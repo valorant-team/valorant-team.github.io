@@ -53,11 +53,13 @@ function SectionTheTeamShort() {
 									<b>António Morais</b>
 								</center>
 							</h4>
-							<img
-								alt="..."
-								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/antonio-morais.png")}
-							/>
+                            <a href="/#/antonio-profile-page">
+                                <img
+                                    alt="..."
+                                    className="img-circle img-no-padding img-responsive"
+                                    src={require("assets/img/team/people/faces/antonio-morais.png")}
+                                />
+                            </a>
 							<hr />
 							<p className="text-center">CIO</p>
 							<p className="text-center">Developer</p>
@@ -85,11 +87,13 @@ function SectionTheTeamShort() {
 									<b>Nelson Santos</b>
 								</center>
 							</h4>
-							<img
-								alt="..."
-								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/nelson-santos.png")}
-							/>
+                            <a href="/#/nelson-profile-page">
+                                <img
+                                    alt="..."
+                                    className="img-circle img-no-padding img-responsive"
+                                    src={require("assets/img/team/people/faces/nelson-santos.png")}
+                                />
+                            </a>
 							<hr />
 							<p className="text-center">CEO</p>
 							<p className="text-center">Developer</p>
@@ -117,11 +121,13 @@ function SectionTheTeamShort() {
 									<b>Nuno Sequeira</b>
 								</center>
 							</h4>
-							<img
-								alt="..."
-								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/nuno-sequeira.png")}
-							/>
+							<a href="/#/nuno-profile-page">
+                                <img
+                                    alt="..."
+                                    className="img-circle img-no-padding img-responsive"
+                                    src={require("assets/img/team/people/faces/nuno-sequeira.png")}
+                                />
+                            </a>
 							<hr />
 							<p className="text-center">COO</p>
 							<p className="text-center">CCO</p>
@@ -150,11 +156,13 @@ function SectionTheTeamShort() {
 									<b>Rúben Barreiro</b>
 								</center>
 							</h4>
-							<img
-								alt="..."
-								className="img-circle img-no-padding img-responsive"
-								src={require("assets/img/faces/ruben-barreiro.png")}
-							/>
+							<a href="/#/ruben-profile-page">
+                                <img
+                                    alt="..."
+                                    className="img-circle img-no-padding img-responsive"
+                                    src={require("assets/img/team/people/faces/ruben-barreiro.png")}
+                                />
+                            </a>
 							<hr />
 							<p className="text-center">CTO</p>
 							<p className="text-center">CDO</p>
