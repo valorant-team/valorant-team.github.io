@@ -1,39 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ea4757cd063d1744bbd5c6a80c492c0",
+    "revision": "6a0f1a0ae027b389102a33c9f675d41f",
     "url": "/index.html"
   },
   {
-    "revision": "0ab58b36a2a7b560719d",
-    "url": "/static/css/main.21535fdb.chunk.css"
+    "revision": "a89329566c065fbfb8db",
+    "url": "/static/css/main.24107c2f.chunk.css"
   },
   {
-    "revision": "c050716493c752aec57e",
-    "url": "/static/js/2.430d9331.chunk.js"
+    "revision": "e0d97318a13e7cec449d",
+    "url": "/static/js/2.0e706b1c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.430d9331.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0e706b1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ab58b36a2a7b560719d",
-    "url": "/static/js/main.ba723766.chunk.js"
+    "revision": "a89329566c065fbfb8db",
+    "url": "/static/js/main.3b813b67.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.ba723766.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.3b813b67.chunk.js.LICENSE.txt"
   },
   {
     "revision": "76c3b8adc229df4932ff",
     "url": "/static/js/runtime-main.8e9acc9c.js"
-  },
-  {
-    "revision": "c813893174a44e4712f0f5f9868d87d1",
-    "url": "/static/media/Optimized-bad.c8138931.png"
-  },
-  {
-    "revision": "dfa1add86418d838b495a2e21b991c20",
-    "url": "/static/media/Optimized-good.dfa1add8.png"
   },
   {
     "revision": "dfbf459c7e39ae2e0077b8fa4dc04411",
@@ -48,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/artificial-intelligence-1.a1361441.jpg"
   },
   {
+    "revision": "4d2bd6a1f7eebe8de37002f09671ffb1",
+    "url": "/static/media/assignment-1-cover.4d2bd6a1.jpg"
+  },
+  {
     "revision": "78e02901eed21b82c7b230b5330899fa",
     "url": "/static/media/assignment-1-cover.78e02901.jpg"
+  },
+  {
+    "revision": "fbfbd54ad9d8bfaa7aa90bb689e820ae",
+    "url": "/static/media/assignment-1-cover.fbfbd54a.jpg"
   },
   {
     "revision": "bfc688ca490f0079051aea5b8ec75cbe",
@@ -69,7 +69,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "df0cdbfb2c70d9857e3776eb83a5a4eb",
-    "url": "/static/media/creative-tim-white-slim2.df0cdbfb.png"
+    "url": "/static/media/creative-tim-white-slim.df0cdbfb.png"
   },
   {
     "revision": "a6d4ec6dc88eeebc65ae409207863030",
@@ -104,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fast-food-tray-design-improvement-2.9077dee9.png"
   },
   {
+    "revision": "1331ba97560cc13103d379a8843ad1dc",
+    "url": "/static/media/federico-beccari.1331ba97.jpg"
+  },
+  {
     "revision": "7812184c3710d9623c684956fe048ddd",
     "url": "/static/media/fog-low.7812184c.png"
   },
@@ -114,6 +118,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be9fa468a029a195601370492c15519d",
     "url": "/static/media/login-image.be9fa468.jpg"
+  },
+  {
+    "revision": "9aa493ce14b79cda91ca8dc84c140df1",
+    "url": "/static/media/masterbook-app-logo-cover-1.9aa493ce.jpg"
+  },
+  {
+    "revision": "d8a194e22ca15671fb840ad171b78bf5",
+    "url": "/static/media/masterbook-app-logo-cover-2.d8a194e2.jpg"
+  },
+  {
+    "revision": "a23c095a43b7665dbd6ef1ed18999441",
+    "url": "/static/media/masterbook-app-logo-cover-3.a23c095a.jpg"
+  },
+  {
+    "revision": "a69ed8caa88d8f06dc986e4b73805309",
+    "url": "/static/media/masterbook-app-logo-cover-4.a69ed8ca.jpg"
+  },
+  {
+    "revision": "d7ab284c297dc095a67a88b2750fc4e7",
+    "url": "/static/media/masterbook-app-logo-cover-5.d7ab284c.jpg"
+  },
+  {
+    "revision": "3d215d2537055c1bd39172550ef4a089",
+    "url": "/static/media/masterbook-app-logo-cover-6.3d215d25.jpg"
   },
   {
     "revision": "d3a4b4362174e1aab26734e51684eab1",
@@ -144,6 +172,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nuno-sequeira.b17ce0a7.png"
   },
   {
+    "revision": "c813893174a44e4712f0f5f9868d87d1",
+    "url": "/static/media/optimized-bad.c8138931.png"
+  },
+  {
+    "revision": "dfa1add86418d838b495a2e21b991c20",
+    "url": "/static/media/optimized-good.dfa1add8.png"
+  },
+  {
     "revision": "e0202db0906663f8a0cfc5666422be99",
     "url": "/static/media/quantum-computing-1.e0202db0.jpg"
   },
@@ -164,7 +200,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/teresa-romao.3db95e0b.png"
   },
   {
-    "revision": "eeb2822b9244f9834094bd1ba1750a5b",
-    "url": "/static/media/valorant-team-logo-2.eeb2822b.png"
+    "revision": "d0e2b68b17e52e41bd6efe26f9c84427",
+    "url": "/static/media/valorant-team-logo-2.d0e2b68b.png"
   }
 ]);
