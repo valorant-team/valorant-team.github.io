@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a0f1a0ae027b389102a33c9f675d41f",
+    "revision": "720f6dc8fbe8f4b77ed53910f814828b",
     "url": "/index.html"
   },
   {
-    "revision": "a89329566c065fbfb8db",
+    "revision": "848c4ffb2e27160a95cc",
     "url": "/static/css/main.24107c2f.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0e706b1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a89329566c065fbfb8db",
-    "url": "/static/js/main.3b813b67.chunk.js"
+    "revision": "848c4ffb2e27160a95cc",
+    "url": "/static/js/main.c99487d5.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.3b813b67.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.c99487d5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "76c3b8adc229df4932ff",
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/masterbook-app-logo-cover-5.d7ab284c.jpg"
   },
   {
-    "revision": "3d215d2537055c1bd39172550ef4a089",
-    "url": "/static/media/masterbook-app-logo-cover-6.3d215d25.jpg"
+    "revision": "cfcb6b3bdef1a0a44c63b65d22103c30",
+    "url": "/static/media/masterbook-app-logo-cover-6.cfcb6b3b.jpg"
   },
   {
     "revision": "d3a4b4362174e1aab26734e51684eab1",

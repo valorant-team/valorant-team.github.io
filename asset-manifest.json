@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.24107c2f.chunk.css",
-    "main.js": "/static/js/main.3b813b67.chunk.js",
-    "main.js.map": "/static/js/main.3b813b67.chunk.js.map",
+    "main.js": "/static/js/main.c99487d5.chunk.js",
+    "main.js.map": "/static/js/main.c99487d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e9acc9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e9acc9c.js.map",
     "static/js/2.0e706b1c.chunk.js": "/static/js/2.0e706b1c.chunk.js",
     "static/js/2.0e706b1c.chunk.js.map": "/static/js/2.0e706b1c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6a1367e4ab1ad985d01f57cd343ddc18.js": "/precache-manifest.6a1367e4ab1ad985d01f57cd343ddc18.js",
+    "precache-manifest.ae58d871b81d0a66aa0c99bb502b43a4.js": "/precache-manifest.ae58d871b81d0a66aa0c99bb502b43a4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.24107c2f.chunk.css.map": "/static/css/main.24107c2f.chunk.css.map",
     "static/js/2.0e706b1c.chunk.js.LICENSE.txt": "/static/js/2.0e706b1c.chunk.js.LICENSE.txt",
-    "static/js/main.3b813b67.chunk.js.LICENSE.txt": "/static/js/main.3b813b67.chunk.js.LICENSE.txt",
+    "static/js/main.c99487d5.chunk.js.LICENSE.txt": "/static/js/main.c99487d5.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/antonio-morais.png": "/static/media/antonio-morais.f539815f.png",
     "static/media/artificial-intelligence-1.jpg": "/static/media/artificial-intelligence-1.a1361441.jpg",
@@ -39,7 +39,7 @@
     "static/media/masterbook-app-logo-cover-3.jpg": "/static/media/masterbook-app-logo-cover-3.a23c095a.jpg",
     "static/media/masterbook-app-logo-cover-4.jpg": "/static/media/masterbook-app-logo-cover-4.a69ed8ca.jpg",
     "static/media/masterbook-app-logo-cover-5.jpg": "/static/media/masterbook-app-logo-cover-5.d7ab284c.jpg",
-    "static/media/masterbook-app-logo-cover-6.jpg": "/static/media/masterbook-app-logo-cover-6.3d215d25.jpg",
+    "static/media/masterbook-app-logo-cover-6.jpg": "/static/media/masterbook-app-logo-cover-6.cfcb6b3b.jpg",
     "static/media/nelson-santos.png": "/static/media/nelson-santos.d3a4b436.png",
     "static/media/networks-1.jpg": "/static/media/networks-1.06959090.jpg",
     "static/media/paper-kit.scss?v=1.2.0": "/static/media/nucleo-icons.f32ed5ad.eot",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.8e9acc9c.js",
     "static/js/2.0e706b1c.chunk.js",
     "static/css/main.24107c2f.chunk.css",
-    "static/js/main.3b813b67.chunk.js"
+    "static/js/main.c99487d5.chunk.js"
   ]
 }
