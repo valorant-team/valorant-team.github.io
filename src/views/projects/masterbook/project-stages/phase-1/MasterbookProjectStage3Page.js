@@ -60,7 +60,7 @@ function MasterbookProjectStage3() {
                 <h2 className="title"><i><b>Masterbook</b></i></h2>
                 <hr />
                 <br />
-                <img src="https://raw.githubusercontent.com/valorant-team/valorant-team.github.io/master/src/assets/img/logos/masterbook-logo.png" alt="Masterbook - Logo" width="500" />
+                <img src="https://raw.githubusercontent.com/valorant-team/valorant-team.github.io/master/src/assets/img/projects/masterbook/logos/masterbook-logo-1.png" alt="Masterbook - Logo" width="500" />
                 <br />
                 <br />
                 
