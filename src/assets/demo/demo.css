@@ -655,13 +655,7 @@
   position: relative;
 }
 
-.valorant-team-logo {
-  max-width: 140px;
-  top: -2px;
-  position: relative;
-}
-
-.creative-tim-logo {
+.team-header-logo {
   max-width: 140px;
   top: -2px;
   position: relative;

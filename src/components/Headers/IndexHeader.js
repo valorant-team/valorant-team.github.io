@@ -38,6 +38,14 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
+              <img
+                  alt="Valorant Team"
+                  className="creative-tim-logo"
+                  width="300"
+                  src={require("assets/img/team/logos/valorant-team-logo-small-2.png")}
+              />
+              <br />
+              <br />
               <h1 className="presentation-title">VALORANT TEAM</h1>
               <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
@@ -80,7 +88,7 @@ function IndexHeader() {
           >
             <img
               alt="Valorant Team"
-              className="valorant-team-logo"
+              className="creative-tim-logo"
               src={require("assets/img/team/logos/valorant-team-logo-2.png")}
             />
           </a>
