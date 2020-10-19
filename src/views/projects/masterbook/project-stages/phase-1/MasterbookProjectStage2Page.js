@@ -492,19 +492,19 @@ function MasterbookProjectStage2() {
                   </p>
                   <br />
                   <p>
-                    Then, she go to her <i><b>Profile Page</b></i> (or even, in the <i><b>Navigation Bar</b></i> of it) and <i><b>click</b></i> on the icon of the option "<i><b>Add Recipe</b></i>".
+                    Then, she go to her <i><b>Profile Page</b></i>'s <i><b>Feed</b></i> and find an option to <i><b>add</b></i> the <i><b>Recipe</b></i>.
                   </p>
                   <br />
                   <p>
-                    After she <i><b>clicked</b></i> on it, it will be presented to her a <i><b>Web Form</b></i>, allowing her to insert all the <i><b>information</b></i> regarding to her <i><b>Recipe</b></i>.
+                    In order to do it, it will be presented to her a <i><b>Form</b></i>, allowing her to provide all the <i><b>information</b></i> regarding to her <i><b>Recipe</b></i>.
                   </p>
                   <br />
                   <p>
-                    She fulfil the <i><b>Web Form</b></i>, providing all the <i><b>information</b></i> asked about her <i><b>Recipe</b></i> (i.e., the <i><b>Title</b></i>, <i><b>Sub-Title</b></i>, <i><b>Description</b></i>, <i><b>Ingredients/Products</b></i>, <i><b>Steps/Instructions</b></i>, etc.), upload some <i><b>Photos</b></i> showing the aspect of the <i><b>Recipe</b></i> and for each <i><b>Step/Instruction</b></i> of it, add also the respective <i><b>Timer</b></i>.
+                    She fulfil the <i><b>Form</b></i>, providing all the <i><b>information</b></i> asked about her <i><b>Recipe</b></i> (i.e., the <i><b>Recipe</b></i>'s <i><b>Title</b></i>, <i><b>Sub-Title</b></i>, <i><b>Description</b></i>, <i><b>Ingredients/Products</b></i>, <i><b>Steps/Instructions</b></i>, etc.), or even, upload some <i><b>Photos</b></i> showing the final aspect of it, as also, for each <i><b>Step/Instruction</b></i> of it, <i><b>add</b></i> the respective <i><b>Timer</b></i>.
                   </p>
                   <br />
                   <p>
-                    After, she finish the fulfilment of all the information asked in the <i><b>Web Form</b></i>, she clicks on the <i><b>Button</b></i> "<i><b>Add Recipe</b></i>".
+                    After she finish the fulfilment of all the information asked in the <i><b>Form</b></i>, she can, finally, complete the <i><b>addition</b></i>/<i><b>creation</b></i> of her <i><b>Recipe</b></i>.
                   </p>
                   <br />
                   <p>
@@ -554,11 +554,11 @@ function MasterbookProjectStage2() {
                   </p>
                   <br />
                   <p>
-                    For each <i><b>Ingredient/Product</b></i> missin, at her home, displayed in the <i><b>Recipe</b></i>'s page on the <i><b>app</b></i>, she clicks on the <i><b>Button</b></i> "<i><b>Add to Cart</b></i>", the <i><b>app</b></i> <i><b>automatically choose the less expensive of each one of it</b></i>, regarding all the <i><b>Stores</b></i>, in a <i><b>range of 2 kms</b></i>.
+                    For each <i><b>Ingredient/Product</b></i> missing, at her home, displayed in the <i><b>Recipe</b></i>'s page on the <i><b>app</b></i>, she can <i><b>add</b></i> it to her <i><b>Shopping Cart</b></i> and then, the <i><b>app</b></i> <i><b>automatically choose the less expensive of each one of it</b></i>, regarding all the <i><b>Stores</b></i>, in a <i><b>range of 2 kms</b></i>.
                   </p>
                   <br />
                   <p>
-                    When all the missing <i><b>Ingredients/Products</b></i> are added to her <i><b>Shopping Cart</b></i>, she clicks on the <i><b>Cart</b></i> <i><b>icon</b></i>, on her <i><b>Profile Page</b></i> (or even, in the <i><b>Navigation Bar</b></i> of it), she clicks on the <i><b>Button</b></i> "<i><b>Checkout</b></i>", performs the <i><b>online payment</b></i>, <i><b>providing her home address</b></i>, for the delivery of all the <i><b>Ingredients/Products</b></i> she bought.
+                    When all the missing <i><b>Ingredients/Products</b></i> are added to her <i><b>Shopping Cart</b></i>, she can see the <i><b>total money amount</b></i> to <i><b>pay</b></i>, do the <i><b>Checkout</b></i> and perform the <i><b>online payment</b></i>, <i><b>providing her home address</b></i>, for the delivery of all the <i><b>Ingredients/Products</b></i> she bought.
                   </p>
                   <br />
                   <p>
