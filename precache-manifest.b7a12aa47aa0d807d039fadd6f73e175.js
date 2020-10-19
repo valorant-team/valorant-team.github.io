@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "720f6dc8fbe8f4b77ed53910f814828b",
+    "revision": "f4cfbda532bbe30b51ef377b2cd2fb61",
     "url": "/index.html"
   },
   {
-    "revision": "848c4ffb2e27160a95cc",
-    "url": "/static/css/main.24107c2f.chunk.css"
+    "revision": "bbdb77f99a2d6e93e30f",
+    "url": "/static/css/main.9bf2554d.chunk.css"
   },
   {
-    "revision": "e0d97318a13e7cec449d",
-    "url": "/static/js/2.0e706b1c.chunk.js"
+    "revision": "36da19cd1d96ef7e7640",
+    "url": "/static/js/2.f23ea273.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.0e706b1c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f23ea273.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "848c4ffb2e27160a95cc",
-    "url": "/static/js/main.c99487d5.chunk.js"
+    "revision": "bbdb77f99a2d6e93e30f",
+    "url": "/static/js/main.ff59ee91.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.c99487d5.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.ff59ee91.chunk.js.LICENSE.txt"
   },
   {
     "revision": "76c3b8adc229df4932ff",
@@ -200,7 +200,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/teresa-romao.3db95e0b.png"
   },
   {
-    "revision": "d0e2b68b17e52e41bd6efe26f9c84427",
-    "url": "/static/media/valorant-team-logo-2.d0e2b68b.png"
+    "revision": "5a7d9faf0c9088bf494b241621dc1609",
+    "url": "/static/media/valorant-team-logo-2.5a7d9faf.png"
+  },
+  {
+    "revision": "d5f884cb4bb5896a9e6632f1fbee3201",
+    "url": "/static/media/valorant-team-logo-small-2.d5f884cb.png"
   }
 ]);

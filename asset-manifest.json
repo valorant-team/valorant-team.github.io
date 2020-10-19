@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.24107c2f.chunk.css",
-    "main.js": "/static/js/main.c99487d5.chunk.js",
-    "main.js.map": "/static/js/main.c99487d5.chunk.js.map",
+    "main.css": "/static/css/main.9bf2554d.chunk.css",
+    "main.js": "/static/js/main.ff59ee91.chunk.js",
+    "main.js.map": "/static/js/main.ff59ee91.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e9acc9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e9acc9c.js.map",
-    "static/js/2.0e706b1c.chunk.js": "/static/js/2.0e706b1c.chunk.js",
-    "static/js/2.0e706b1c.chunk.js.map": "/static/js/2.0e706b1c.chunk.js.map",
+    "static/js/2.f23ea273.chunk.js": "/static/js/2.f23ea273.chunk.js",
+    "static/js/2.f23ea273.chunk.js.map": "/static/js/2.f23ea273.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ae58d871b81d0a66aa0c99bb502b43a4.js": "/precache-manifest.ae58d871b81d0a66aa0c99bb502b43a4.js",
+    "precache-manifest.b7a12aa47aa0d807d039fadd6f73e175.js": "/precache-manifest.b7a12aa47aa0d807d039fadd6f73e175.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.24107c2f.chunk.css.map": "/static/css/main.24107c2f.chunk.css.map",
-    "static/js/2.0e706b1c.chunk.js.LICENSE.txt": "/static/js/2.0e706b1c.chunk.js.LICENSE.txt",
-    "static/js/main.c99487d5.chunk.js.LICENSE.txt": "/static/js/main.c99487d5.chunk.js.LICENSE.txt",
+    "static/css/main.9bf2554d.chunk.css.map": "/static/css/main.9bf2554d.chunk.css.map",
+    "static/js/2.f23ea273.chunk.js.LICENSE.txt": "/static/js/2.f23ea273.chunk.js.LICENSE.txt",
+    "static/js/main.ff59ee91.chunk.js.LICENSE.txt": "/static/js/main.ff59ee91.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/antonio-morais.png": "/static/media/antonio-morais.f539815f.png",
     "static/media/artificial-intelligence-1.jpg": "/static/media/artificial-intelligence-1.a1361441.jpg",
@@ -51,12 +51,13 @@
     "static/media/spotify-good-design-1.png": "/static/media/spotify-good-design-1.6386a371.png",
     "static/media/spotify-good-design-2.png": "/static/media/spotify-good-design-2.320129f6.png",
     "static/media/teresa-romao.png": "/static/media/teresa-romao.3db95e0b.png",
-    "static/media/valorant-team-logo-2.png": "/static/media/valorant-team-logo-2.d0e2b68b.png"
+    "static/media/valorant-team-logo-2.png": "/static/media/valorant-team-logo-2.5a7d9faf.png",
+    "static/media/valorant-team-logo-small-2.png": "/static/media/valorant-team-logo-small-2.d5f884cb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e9acc9c.js",
-    "static/js/2.0e706b1c.chunk.js",
-    "static/css/main.24107c2f.chunk.css",
-    "static/js/main.c99487d5.chunk.js"
+    "static/js/2.f23ea273.chunk.js",
+    "static/css/main.9bf2554d.chunk.css",
+    "static/js/main.ff59ee91.chunk.js"
   ]
 }
