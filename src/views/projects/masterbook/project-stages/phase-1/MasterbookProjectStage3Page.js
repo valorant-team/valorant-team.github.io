@@ -72,7 +72,7 @@ function MasterbookProjectStage3() {
                 <Button
                   className="btn-round"
                   color="info"
-                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/projects/masterbook/reports/phase-2/hci-masterbook-project-stage-3.pdf" target="_blank"
+                  href="https://github.com/valorant-team/valorant-team.github.io/raw/master/src/assets/docs/projects/masterbook/reports/phase-1/hci-masterbook-project-stage-3.pdf" target="_blank"
                 >
                   Download PDF
                 </Button>
